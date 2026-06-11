@@ -1,0 +1,1493 @@
+TOTAL DE RECETAS EN BASE DE DATOS: 51
+================================================================================
+
+[1/51] Baked salmon with fennel & tomatoes
+   ID: 52959
+   Categoría: Seafood
+   Origen: British
+   Ingredientes: fennel, parsley, lemon, cherry tomatoes, olive oil, salmon, black olives
+   Instrucciones: Heat oven to 180C/fan 160C/gas 4. Trim the fronds from the fennel and set aside. Cut the fennel bulbs in half, then cut each half into 3 wedges. Cook in boiling salted water for 10 mins, then drain well. Chop the fennel fronds roughly, then mix with the parsley and lemon zest.
+
+Spread the drained fennel over a shallow ovenproof dish, then add the tomatoes. Drizzle with olive oil, then bake for 10 mins. Nestle the salmon among the veg, sprinkle with lemon juice, then bake 15 mins more until the fish is just cooked. Scatter over the parsley and serve.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Baked salmon with fennel & tomatoes
+   CATEGORÍA: Seafood
+   ORIGEN: British
+   INGREDIENTES: fennel, parsley, lemon, cherry tomatoes, olive oil, salmon, black olives
+   INSTRUCCIONES: Heat oven to 180C/fan 160C/gas 4. Trim the fronds from the fennel and set aside. Cut the fennel bulbs in half, then cut each half into 3 wedges. Cook in boiling salted water for 10 mins, then drain well. Chop the fennel fronds roughly, then mix with the parsley and lemon zest.
+   
+   Spread the drained fennel over a shallow ovenproof dish, then add the tomatoes. Drizzle with olive oil, then bake for 10 mins. Nestle the salmon among the veg, sprinkle with lemon juice, then bake 15 mins more until the fish is just cooked. Scatter over the parsley and serve.
+--------------------------------------------------------------------------------
+
+[2/51] Banana Pancakes
+   ID: 52855
+   Categoría: Dessert
+   Origen: United States
+   Ingredientes: banana, eggs, baking powder, vanilla extract, oil, pecan nuts, raspberries
+   Instrucciones: In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla.
+Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Banana Pancakes
+   CATEGORÍA: Dessert
+   ORIGEN: United States
+   INGREDIENTES: banana, eggs, baking powder, vanilla extract, oil, pecan nuts, raspberries
+   INSTRUCCIONES: In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla.
+   Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.
+--------------------------------------------------------------------------------
+
+[3/51] Beef Wellington
+   ID: 52803
+   Categoría: Beef
+   Origen: British
+   Ingredientes: mushrooms, english mustard, olive oil, beef fillet, parma ham, puff pastry, flour, egg yolks
+   Instrucciones: Put the mushrooms into a food processor with some seasoning and pulse to a rough paste. Scrape the paste into a pan and cook over a high heat for about 10 mins, tossing frequently, to cook out the moisture from the mushrooms. Spread out on a plate to cool.
+Heat in a frying pan and add a little olive oil. Season the beef and sear in the hot pan for 30 secs only on each side. (You don't want to cook it at this stage, just colour it). Remove the beef from the pan and leave to cool, then brush all over with the mustard.
+Lay a sheet of cling film on a work surface and arrange the Parma ham slices on it, in slightly overlapping rows. With a palette knife, spread the mushroom paste over the ham, then place the seared beef fillet in the middle. Keeping a tight hold of the cling film from the edge, neatly roll the Parma ham and mushrooms around the beef to form a tight barrel shape. Twist the ends of the cling film to secure. Chill for 15-20 mins to allow the beef to set and keep its shape.
+Roll out the puff pastry on a floured surface to a large rectangle, the thickness of a £1 coin. Remove the cling film from the beef, then lay in the centre. Brush the surrounding pastry with egg yolk. Fold the ends over, the wrap the pastry around the beef, cutting off any excess. Turn over, so the seam is underneath, and place on a baking sheet. Brush over all the pastry with egg and chill for about 15 mins to let the pastry rest.
+Heat the oven to 200C, 400F, gas 6.
+Lightly score the pastry at 1cm intervals and glaze again with beaten egg yolk. Bake for 20 minutes, then lower the oven setting to 180C, 350F, gas 4 and cook for another 15 mins. Allow to rest for 10-15 mins before slicing and serving with the side dishes of your choice. The beef should still be pink in the centre when you serve it.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Beef Wellington
+   CATEGORÍA: Beef
+   ORIGEN: British
+   INGREDIENTES: mushrooms, english mustard, olive oil, beef fillet, parma ham, puff pastry, flour, egg yolks
+   INSTRUCCIONES: Put the mushrooms into a food processor with some seasoning and pulse to a rough paste. Scrape the paste into a pan and cook over a high heat for about 10 mins, tossing frequently, to cook out the moisture from the mushrooms. Spread out on a plate to cool.
+   Heat in a frying pan and add a little olive oil. Season the beef and sear in the hot pan for 30 secs only on each side. (You don't want to cook it at this stage, just colour it). Remove the beef from the pan and leave to cool, then brush all over with the mustard.
+   Lay a sheet of cling film on a work surface and arrange the Parma ham slices on it, in slightly overlapping rows. With a palette knife, spread the mushroom paste over the ham, then place the seared beef fillet in the middle. Keeping a tight hold of the cling film from the edge, neatly roll the Parma ham and mushrooms around the beef to form a tight barrel shape. Twist the ends of the cling film to secure. Chill for 15-20 mins to allow the beef to set and keep its shape.
+   Roll out the puff pastry on a floured surface to a large rectangle, the thickness of a £1 coin. Remove the cling film from the beef, then lay in the centre. Brush the surrounding pastry with egg yolk. Fold the ends over, the wrap the pastry around the beef, cutting off any excess. Turn over, so the seam is underneath, and place on a baking sheet. Brush over all the pastry with egg and chill for about 15 mins to let the pastry rest.
+   Heat the oven to 200C, 400F, gas 6.
+   Lightly score the pastry at 1cm intervals and glaze again with beaten egg yolk. Bake for 20 minutes, then lower the oven setting to 180C, 350F, gas 4 and cook for another 15 mins. Allow to rest for 10-15 mins before slicing and serving with the side dishes of your choice. The beef should still be pink in the centre when you serve it.
+--------------------------------------------------------------------------------
+
+[4/51] Beetroot pancakes
+   ID: 53316
+   Categoría: Dessert
+   Origen: Ukrainian
+   Ingredientes: beetroot, milk, self-raising flour, baking powder, maple syrup, vanilla extract, egg, butter, frozen mixed berries, blackcurrant jam, greek yogurt
+   Instrucciones: step 1
+Put the beetroot in a jug with the milk and blend with a stick blender until smooth. Pour into a bowl with the rest of the pancake ingredients and whisk until smooth and vibrant purple.
+
+step 2
+Put a small knob of butter in a large non-stick frying pan and heat over a medium-low heat until melted and foamy. Now create 3 or 4 pancakes each made from 2 tbsp of the batter. Cook for 2-3 mins then flip over and cook for a further minute until cooked through. Repeat with any remaining batter. Heat oven to lowest setting and keep the pancakes warm in there until needed.
+
+step 3
+Serve with your favourite pancake toppings or make a simple compote by simmering frozen berries in with 1 tbsp blackcurrant jam until bubbling and syrupy (about 5-10 mins). In a small bowl stir together the remaining jam and the yogurt. Stack the cooked pancakes with the yogurt and pour the warm berry compote over the top.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Beetroot pancakes
+   CATEGORÍA: Dessert
+   ORIGEN: Ukrainian
+   INGREDIENTES: beetroot, milk, self-raising flour, baking powder, maple syrup, vanilla extract, egg, butter, frozen mixed berries, blackcurrant jam, greek yogurt
+   INSTRUCCIONES: step 1
+   Put the beetroot in a jug with the milk and blend with a stick blender until smooth. Pour into a bowl with the rest of the pancake ingredients and whisk until smooth and vibrant purple.
+   
+   step 2
+   Put a small knob of butter in a large non-stick frying pan and heat over a medium-low heat until melted and foamy. Now create 3 or 4 pancakes each made from 2 tbsp of the batter. Cook for 2-3 mins then flip over and cook for a further minute until cooked through. Repeat with any remaining batter. Heat oven to lowest setting and keep the pancakes warm in there until needed.
+   
+   step 3
+   Serve with your favourite pancake toppings or make a simple compote by simmering frozen berries in with 1 tbsp blackcurrant jam until bubbling and syrupy (about 5-10 mins). In a small bowl stir together the remaining jam and the yogurt. Stack the cooked pancakes with the yogurt and pour the warm berry compote over the top.
+--------------------------------------------------------------------------------
+
+[5/51] Blini Pancakes
+   ID: 53080
+   Categoría: Side
+   Origen: Russian
+   Ingredientes: buckwheat, flour, salt, yeast, milk, butter, egg
+   Instrucciones: In a large bowl, whisk together 1/2 cup buckwheat flour, 2/3 cup all-purpose flour, 1/2 teaspoon salt, and 1 teaspoon yeast.
+
+Make a well in the center and pour in 1 cup warm milk, whisking until the batter is smooth.
+
+Cover the bowl and let the batter rise until doubled, about 1 hour.
+
+Enrich and Rest the Batter
+Stir 2 tablespoons melted butter and 1 egg yolk into the batter.
+
+In a separate bowl, whisk 1 egg white until stiff, but not dry.
+
+Fold the whisked egg white into the batter.
+
+Cover the bowl and let the batter stand 20 minutes.
+
+Pan-Fry the Blini
+Heat butter in a large nonstick skillet over medium heat.
+
+Drop quarter-sized dollops of batter into the pan, being careful not to overcrowd the pan. Cook for about 1 minute or until bubbles form.
+
+Turn and cook for about 30 additional seconds.
+
+Remove the finished blini onto a plate and cover them with a clean kitchen towel to keep warm. Add more butter to the pan and repeat the frying process with the remaining batter.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Blini Pancakes
+   CATEGORÍA: Side
+   ORIGEN: Russian
+   INGREDIENTES: buckwheat, flour, salt, yeast, milk, butter, egg
+   INSTRUCCIONES: In a large bowl, whisk together 1/2 cup buckwheat flour, 2/3 cup all-purpose flour, 1/2 teaspoon salt, and 1 teaspoon yeast.
+   
+   Make a well in the center and pour in 1 cup warm milk, whisking until the batter is smooth.
+   
+   Cover the bowl and let the batter rise until doubled, about 1 hour.
+   
+   Enrich and Rest the Batter
+   Stir 2 tablespoons melted butter and 1 egg yolk into the batter.
+   
+   In a separate bowl, whisk 1 egg white until stiff, but not dry.
+   
+   Fold the whisked egg white into the batter.
+   
+   Cover the bowl and let the batter stand 20 minutes.
+   
+   Pan-Fry the Blini
+   Heat butter in a large nonstick skillet over medium heat.
+   
+   Drop quarter-sized dollops of batter into the pan, being careful not to overcrowd the pan. Cook for about 1 minute or until bubbles form.
+   
+   Turn and cook for about 30 additional seconds.
+   
+   Remove the finished blini onto a plate and cover them with a clean kitchen towel to keep warm. Add more butter to the pan and repeat the frying process with the remaining batter.
+--------------------------------------------------------------------------------
+
+[6/51] Brown Stew Chicken
+   ID: 52940
+   Categoría: Chicken
+   Origen: Jamaican
+   Ingredientes: chicken, tomato, onions, garlic clove, red pepper, carrots, lime, thyme, allspice, soy sauce, cornstarch, coconut milk, vegetable oil
+   Instrucciones: Squeeze lime over chicken and rub well. Drain off excess lime juice.
+Combine tomato, scallion, onion, garlic, pepper, thyme, pimento and soy sauce in a large bowl with the chicken pieces. Cover and marinate at least one hour.
+Heat oil in a dutch pot or large saucepan. Shake off the seasonings as you remove each piece of chicken from the marinade. Reserve the marinade for sauce.
+Lightly brown the chicken a few pieces at a time in very hot oil. Place browned chicken pieces on a plate to rest while you brown the remaining pieces.
+Drain off excess oil and return the chicken to the pan. Pour the marinade over the chicken and add the carrots. Stir and cook over medium heat for 10 minutes.
+Mix flour and coconut milk and add to stew, stirring constantly. Turn heat down to minimum and cook another 20 minutes or until tender.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Brown Stew Chicken
+   CATEGORÍA: Chicken
+   ORIGEN: Jamaican
+   INGREDIENTES: chicken, tomato, onions, garlic clove, red pepper, carrots, lime, thyme, allspice, soy sauce, cornstarch, coconut milk, vegetable oil
+   INSTRUCCIONES: Squeeze lime over chicken and rub well. Drain off excess lime juice.
+   Combine tomato, scallion, onion, garlic, pepper, thyme, pimento and soy sauce in a large bowl with the chicken pieces. Cover and marinate at least one hour.
+   Heat oil in a dutch pot or large saucepan. Shake off the seasonings as you remove each piece of chicken from the marinade. Reserve the marinade for sauce.
+   Lightly brown the chicken a few pieces at a time in very hot oil. Place browned chicken pieces on a plate to rest while you brown the remaining pieces.
+   Drain off excess oil and return the chicken to the pan. Pour the marinade over the chicken and add the carrots. Stir and cook over medium heat for 10 minutes.
+   Mix flour and coconut milk and add to stew, stirring constantly. Turn heat down to minimum and cook another 20 minutes or until tender.
+--------------------------------------------------------------------------------
+
+[7/51] Chicken Basquaise
+   ID: 52934
+   Categoría: Chicken
+   Origen: France
+   Ingredientes: chicken, butter, olive oil, red onions, red pepper, chorizo, sun-dried tomatoes, garlic, basmati rice, tomato puree, paprika, bay leaves, thyme, chicken stock, dry white wine, lemons, black olives, salt, pepper
+   Instrucciones: Preheat the oven to 180°C/Gas mark 4. Have the chicken joints ready to cook. Heat the butter and 3 tbsp olive oil in a flameproof casserole or large frying pan. Brown the chicken pieces in batches on both sides, seasoning them with salt and pepper as you go. Don't crowd the pan - fry the chicken in small batches, removing the pieces to kitchen paper as they are done.
+
+Add a little more olive oil to the casserole and fry the onions over a medium heat for 10 minutes, stirring frequently, until softened but not browned. Add the rest of the oil, then the peppers and cook for another 5 minutes.
+
+Add the chorizo, sun-dried tomatoes and garlic and cook for 2-3 minutes. Add the rice, stirring to ensure it is well coated in the oil. Stir in the tomato paste, paprika, bay leaves and chopped thyme. Pour in the stock and wine. When the liquid starts to bubble, turn the heat down to a gentle simmer. Press the rice down into the liquid if it isn't already submerged and place the chicken on top. Add the lemon wedges and olives around the chicken.
+
+Cover and cook in the oven for 50 minutes. The rice should be cooked but still have some bite, and the chicken should have juices that run clear when pierced in the thickest part with a knife. If not, cook for another 5 minutes and check again.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Chicken Basquaise
+   CATEGORÍA: Chicken
+   ORIGEN: France
+   INGREDIENTES: chicken, butter, olive oil, red onions, red pepper, chorizo, sun-dried tomatoes, garlic, basmati rice, tomato puree, paprika, bay leaves, thyme, chicken stock, dry white wine, lemons, black olives, salt, pepper
+   INSTRUCCIONES: Preheat the oven to 180°C/Gas mark 4. Have the chicken joints ready to cook. Heat the butter and 3 tbsp olive oil in a flameproof casserole or large frying pan. Brown the chicken pieces in batches on both sides, seasoning them with salt and pepper as you go. Don't crowd the pan - fry the chicken in small batches, removing the pieces to kitchen paper as they are done.
+   
+   Add a little more olive oil to the casserole and fry the onions over a medium heat for 10 minutes, stirring frequently, until softened but not browned. Add the rest of the oil, then the peppers and cook for another 5 minutes.
+   
+   Add the chorizo, sun-dried tomatoes and garlic and cook for 2-3 minutes. Add the rice, stirring to ensure it is well coated in the oil. Stir in the tomato paste, paprika, bay leaves and chopped thyme. Pour in the stock and wine. When the liquid starts to bubble, turn the heat down to a gentle simmer. Press the rice down into the liquid if it isn't already submerged and place the chicken on top. Add the lemon wedges and olives around the chicken.
+   
+   Cover and cook in the oven for 50 minutes. The rice should be cooked but still have some bite, and the chicken should have juices that run clear when pierced in the thickest part with a knife. If not, cook for another 5 minutes and check again.
+--------------------------------------------------------------------------------
+
+[8/51] Chicken Congee
+   ID: 52956
+   Categoría: Chicken
+   Origen: Chinese
+   Ingredientes: chicken, salt, pepper, ginger cordial, ginger, spring onions, rice, water, coriander
+   Instrucciones: STEP 1 - MARINATING THE CHICKEN
+In a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well.
+Set the chicken aside.
+STEP 2 - RINSE THE WHITE RICE
+Rinse the rice in a metal bowl or pot a couple times and then drain the water.
+STEP 2 - BOILING THE WHITE RICE
+Next add 8 cups of water and then set the stove on high heat until it is boiling. Once rice porridge starts to boil, set the stove on low heat and then stir it once every 8-10 minutes for around 20-25 minutes.
+After 25 minutes, this is optional but you can add a little bit more water to make rice porridge to make it less thick or to your preference.
+Next add the marinated chicken to the rice porridge and leave the stove on low heat for another 10 minutes.
+After an additional 10 minutes add the green onions, sliced ginger, 1 pinch of salt, 1 pinch of white pepper and stir for 10 seconds.
+Serve the rice porridge in a bowl
+Optional: add Coriander on top of the rice porridge.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Chicken Congee
+   CATEGORÍA: Chicken
+   ORIGEN: Chinese
+   INGREDIENTES: chicken, salt, pepper, ginger cordial, ginger, spring onions, rice, water, coriander
+   INSTRUCCIONES: STEP 1 - MARINATING THE CHICKEN
+   In a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well.
+   Set the chicken aside.
+   STEP 2 - RINSE THE WHITE RICE
+   Rinse the rice in a metal bowl or pot a couple times and then drain the water.
+   STEP 2 - BOILING THE WHITE RICE
+   Next add 8 cups of water and then set the stove on high heat until it is boiling. Once rice porridge starts to boil, set the stove on low heat and then stir it once every 8-10 minutes for around 20-25 minutes.
+   After 25 minutes, this is optional but you can add a little bit more water to make rice porridge to make it less thick or to your preference.
+   Next add the marinated chicken to the rice porridge and leave the stove on low heat for another 10 minutes.
+   After an additional 10 minutes add the green onions, sliced ginger, 1 pinch of salt, 1 pinch of white pepper and stir for 10 seconds.
+   Serve the rice porridge in a bowl
+   Optional: add Coriander on top of the rice porridge.
+--------------------------------------------------------------------------------
+
+[9/51] Chicken Couscous
+   ID: 52850
+   Categoría: Chicken
+   Origen: Moroccan
+   Ingredientes: olive oil, onion, chicken breast, ginger, harissa spice, dried apricots, chickpeas, couscous, chicken stock, coriander
+   Instrucciones: Heat the olive oil in a large frying pan and cook the onion for 1-2 mins just until softened. Add the chicken and fry for 7-10 mins until cooked through and the onions have turned golden. Grate over the ginger, stir through the harissa to coat everything and cook for 1 min more.
+
+Tip in the apricots, chickpeas and couscous, then pour over the stock and stir once. Cover with a lid or tightly cover the pan with foil and leave for about 5 mins until the couscous has soaked up all the stock and is soft. Fluff up the couscous with a fork and scatter over the coriander to serve. Serve with extra harissa, if you like.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Chicken Couscous
+   CATEGORÍA: Chicken
+   ORIGEN: Moroccan
+   INGREDIENTES: olive oil, onion, chicken breast, ginger, harissa spice, dried apricots, chickpeas, couscous, chicken stock, coriander
+   INSTRUCCIONES: Heat the olive oil in a large frying pan and cook the onion for 1-2 mins just until softened. Add the chicken and fry for 7-10 mins until cooked through and the onions have turned golden. Grate over the ginger, stir through the harissa to coat everything and cook for 1 min more.
+   
+   Tip in the apricots, chickpeas and couscous, then pour over the stock and stir once. Cover with a lid or tightly cover the pan with foil and leave for about 5 mins until the couscous has soaked up all the stock and is soft. Fluff up the couscous with a fork and scatter over the coriander to serve. Serve with extra harissa, if you like.
+--------------------------------------------------------------------------------
+
+[10/51] Chicken Fried Rice
+   ID: 53367
+   Categoría: Chicken
+   Origen: Chinese
+   Ingredientes: chicken thighs, salt, canola oil, egg, onion, garlic, ground ginger, carrots, peas, jasmine rice, scallions, chinese five spice powder, soy sauce, sesame seed oil
+   Instrucciones: Fried rice is best made with leftover rice that's at least a day old. Otherwise it becomes gummy in the skillet.
+If you don’t have any leftover rice from the night before, cook a batch of rice and spread it on a large baking sheet or several large plates. Let the rice dry out for about 1 to 2 hours before using it for fried rice.
+
+Rice sticks to the pan very easily, so make sure to use a wok or pan that doesn’t have a sticky surface. I usually cook stir-fries in my seasoned carbon steel wok, but cast iron or nonstick pans work well, too. You might need to add a little more oil if things aren’t releasing easily.
+
+Prepare the chicken:
+Chop the chicken into small 1/4-inch to 1/2-inch cubes. Sprinkle 1/2 teaspoon of salt over the chicken and mix to combine. Set the chicken aside for about 10 minutes (I usually use this time to chop all the vegetables).
+
+Scramble the egg:
+Heat a wok or large sauté pan over medium-high heat. Swirl in a tablespoon of oil and add the whisked eggs. Use a spatula to quickly scramble the eggs, breaking the curds into smaller pieces as they come together. Transfer the eggs to a plate.
+
+Cook the chicken:
+Add another tablespoon of oil in the wok or pan. Add the chicken and cook for 4 to 5 minutes, stirring occasionally. Turn off the heat and transfer the cooked chicken to a plate.
+
+Using your spatula, scrape off any chicken bits that are still stuck to the wok so they don't burn during the next step. You can also use paper towels to wipe down your wok or pan.
+
+Cook the vegetables:
+Swirl 1 tablespoon of oil into the wok over medium-high heat. Add the diced onions and cook them for 1 minute, until they start to soften. Mix in the minced garlic and ginger and cook until fragrant, about 30 seconds. Add the diced carrots and cook for 2 minutes, stirring frequently. Add 1/2 teaspoon salt and the peas, and stir to incorporate.
+
+Cook the rice:
+Add the rice to the wok or pan on top of the vegetables and stir to combine. Using the back of your spatula, smash any large chunks of rice to break them apart. Add the white and green parts of the sliced scallions (save the dark green parts) and five-spice powder. Stir to incorporate. If the rice starts to stick to the pan, stir in a little more oil.
+
+Drizzle the soy sauce and sesame oil over the rice and stir to incorporate. Stir in the cooked chicken, scrambled eggs, and the dark parts of the scallions. Stir briefly to bring it together, and cook for another 1 to 2 minutes.
+
+Serve:
+Taste, and add more soy sauce if necessary. Serve immediately.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Chicken Fried Rice
+   CATEGORÍA: Chicken
+   ORIGEN: Chinese
+   INGREDIENTES: chicken thighs, salt, canola oil, egg, onion, garlic, ground ginger, carrots, peas, jasmine rice, scallions, chinese five spice powder, soy sauce, sesame seed oil
+   INSTRUCCIONES: Fried rice is best made with leftover rice that's at least a day old. Otherwise it becomes gummy in the skillet.
+   If you don’t have any leftover rice from the night before, cook a batch of rice and spread it on a large baking sheet or several large plates. Let the rice dry out for about 1 to 2 hours before using it for fried rice.
+   
+   Rice sticks to the pan very easily, so make sure to use a wok or pan that doesn’t have a sticky surface. I usually cook stir-fries in my seasoned carbon steel wok, but cast iron or nonstick pans work well, too. You might need to add a little more oil if things aren’t releasing easily.
+   
+   Prepare the chicken:
+   Chop the chicken into small 1/4-inch to 1/2-inch cubes. Sprinkle 1/2 teaspoon of salt over the chicken and mix to combine. Set the chicken aside for about 10 minutes (I usually use this time to chop all the vegetables).
+   
+   Scramble the egg:
+   Heat a wok or large sauté pan over medium-high heat. Swirl in a tablespoon of oil and add the whisked eggs. Use a spatula to quickly scramble the eggs, breaking the curds into smaller pieces as they come together. Transfer the eggs to a plate.
+   
+   Cook the chicken:
+   Add another tablespoon of oil in the wok or pan. Add the chicken and cook for 4 to 5 minutes, stirring occasionally. Turn off the heat and transfer the cooked chicken to a plate.
+   
+   Using your spatula, scrape off any chicken bits that are still stuck to the wok so they don't burn during the next step. You can also use paper towels to wipe down your wok or pan.
+   
+   Cook the vegetables:
+   Swirl 1 tablespoon of oil into the wok over medium-high heat. Add the diced onions and cook them for 1 minute, until they start to soften. Mix in the minced garlic and ginger and cook until fragrant, about 30 seconds. Add the diced carrots and cook for 2 minutes, stirring frequently. Add 1/2 teaspoon salt and the peas, and stir to incorporate.
+   
+   Cook the rice:
+   Add the rice to the wok or pan on top of the vegetables and stir to combine. Using the back of your spatula, smash any large chunks of rice to break them apart. Add the white and green parts of the sliced scallions (save the dark green parts) and five-spice powder. Stir to incorporate. If the rice starts to stick to the pan, stir in a little more oil.
+   
+   Drizzle the soy sauce and sesame oil over the rice and stir to incorporate. Stir in the cooked chicken, scrambled eggs, and the dark parts of the scallions. Stir briefly to bring it together, and cook for another 1 to 2 minutes.
+   
+   Serve:
+   Taste, and add more soy sauce if necessary. Serve immediately.
+--------------------------------------------------------------------------------
+
+[11/51] Chicken Ham and Leek Pie
+   ID: 52875
+   Categoría: Chicken
+   Origen: British
+   Ingredientes: chicken stock, chicken breast, butter, leek, garlic, plain flour, milk, white wine, double cream, ham, sea salt, pepper, plain flour, butter, free-range egg, beaten, cold water, free-range egg, beaten
+   Instrucciones: Heat the chicken stock in a lidded saucepan. Add the chicken breast and bring to a low simmer. Cover with a lid and cook for 10 minutes. Remove the chicken breasts from the water with tongs and place on a plate. Pour the cooking liquor into a large jug.
+Melt 25g/1oz of the butter in a large heavy-based saucepan over a low heat. Stir in the leeks and fry gently for two minutes, stirring occasionally until just softened. Add the garlic and cook for a further minute. Add the remaining butter and stir in the flour as soon as the butter has melted. Cook for 30 seconds, stirring constantly.
+Slowly pour the milk into the pan, just a little at a time, stirring well between each adding. Gradually add 250ml/10fl oz of the reserved stock and the wine, if using, stirring until the sauce is smooth and thickened slightly. Bring to a gentle simmer and cook for 3 minutes.
+Season the mixture, to taste, with salt and freshly ground black pepper. Remove from the heat and stir in the cream. Pour into a large bowl and cover the surface of the sauce with cling ilm to prevent a skin forming. Set aside to cool.
+Preheat the oven to 200C/400F/Gas 6. Put a baking tray in the oven to heat.
+For the pastry, put the flour and butter in a food processor and blend on the pulse setting until the mixture resembles fine breadcrumbs. With the motor running, add the beaten egg and water and blend until the mixture forms a ball. Portion off 250g/10oz of pastry for the lid.
+Roll the remaining pastry out on a lightly floured surface, turning the pastry frequently until around 5mm/¼in thick and 4cm/1½in larger than the pie dish. Lift the pastry over the rolling pin and place it gently into the pie dish. Press the pastry firmly up the sides, making sure there are no air bubbles. Leave the excess pastry overhanging the sides.
+Cut the chicken breasts into 3cm/1¼in pieces. Stir the chicken, ham and leeks into the cooled sauce. Pour the chicken filling into the pie dish. Brush the rim of the dish with beaten egg. Roll out the reserved pastry for the lid.
+Cover the pie with the pastry lid and press the edges together firmly to seal. Trim any excess pastry.
+Make a small hole in the centre of the pie with the tip of a knife. Glaze the top of the pie with beaten egg. Bake on the preheated tray in the centre of the oven for 35-40 minutes or until the pie is golden-brown all over and the filling is piping hot.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Chicken Ham and Leek Pie
+   CATEGORÍA: Chicken
+   ORIGEN: British
+   INGREDIENTES: chicken stock, chicken breast, butter, leek, garlic, plain flour, milk, white wine, double cream, ham, sea salt, pepper, plain flour, butter, free-range egg, beaten, cold water, free-range egg, beaten
+   INSTRUCCIONES: Heat the chicken stock in a lidded saucepan. Add the chicken breast and bring to a low simmer. Cover with a lid and cook for 10 minutes. Remove the chicken breasts from the water with tongs and place on a plate. Pour the cooking liquor into a large jug.
+   Melt 25g/1oz of the butter in a large heavy-based saucepan over a low heat. Stir in the leeks and fry gently for two minutes, stirring occasionally until just softened. Add the garlic and cook for a further minute. Add the remaining butter and stir in the flour as soon as the butter has melted. Cook for 30 seconds, stirring constantly.
+   Slowly pour the milk into the pan, just a little at a time, stirring well between each adding. Gradually add 250ml/10fl oz of the reserved stock and the wine, if using, stirring until the sauce is smooth and thickened slightly. Bring to a gentle simmer and cook for 3 minutes.
+   Season the mixture, to taste, with salt and freshly ground black pepper. Remove from the heat and stir in the cream. Pour into a large bowl and cover the surface of the sauce with cling ilm to prevent a skin forming. Set aside to cool.
+   Preheat the oven to 200C/400F/Gas 6. Put a baking tray in the oven to heat.
+   For the pastry, put the flour and butter in a food processor and blend on the pulse setting until the mixture resembles fine breadcrumbs. With the motor running, add the beaten egg and water and blend until the mixture forms a ball. Portion off 250g/10oz of pastry for the lid.
+   Roll the remaining pastry out on a lightly floured surface, turning the pastry frequently until around 5mm/¼in thick and 4cm/1½in larger than the pie dish. Lift the pastry over the rolling pin and place it gently into the pie dish. Press the pastry firmly up the sides, making sure there are no air bubbles. Leave the excess pastry overhanging the sides.
+   Cut the chicken breasts into 3cm/1¼in pieces. Stir the chicken, ham and leeks into the cooled sauce. Pour the chicken filling into the pie dish. Brush the rim of the dish with beaten egg. Roll out the reserved pastry for the lid.
+   Cover the pie with the pastry lid and press the edges together firmly to seal. Trim any excess pastry.
+   Make a small hole in the centre of the pie with the tip of a knife. Glaze the top of the pie with beaten egg. Bake on the preheated tray in the centre of the oven for 35-40 minutes or until the pie is golden-brown all over and the filling is piping hot.
+--------------------------------------------------------------------------------
+
+[12/51] Chicken Handi
+   ID: 52795
+   Categoría: Chicken
+   Origen: India
+   Ingredientes: chicken, onion, tomatoes, garlic, ginger paste, vegetable oil, cumin seeds, coriander seeds, turmeric powder, chilli powder, green chilli, yogurt, cream, fenugreek, garam masala, salt
+   Instrucciones: Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside.
+To the same pot, add the chopped garlic and sauté for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes.
+Then return the fried onion to the pot and stir. Add ginger paste and sauté well.
+Now add the cumin seeds, half of the coriander seeds and chopped green chillies. Give them a quick stir.
+Next goes in the spices – turmeric powder and red chilli powder. Sauté the spices well for couple of minutes.
+Add the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through. This would take about 15 minutes. Slowly sautéing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat.
+When the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn’t split. Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves. Mix well.
+Finally add the cream and give a final mix to combine everything well.
+Sprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis. Enjoy!
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Chicken Handi
+   CATEGORÍA: Chicken
+   ORIGEN: India
+   INGREDIENTES: chicken, onion, tomatoes, garlic, ginger paste, vegetable oil, cumin seeds, coriander seeds, turmeric powder, chilli powder, green chilli, yogurt, cream, fenugreek, garam masala, salt
+   INSTRUCCIONES: Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside.
+   To the same pot, add the chopped garlic and sauté for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes.
+   Then return the fried onion to the pot and stir. Add ginger paste and sauté well.
+   Now add the cumin seeds, half of the coriander seeds and chopped green chillies. Give them a quick stir.
+   Next goes in the spices – turmeric powder and red chilli powder. Sauté the spices well for couple of minutes.
+   Add the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through. This would take about 15 minutes. Slowly sautéing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat.
+   When the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn’t split. Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves. Mix well.
+   Finally add the cream and give a final mix to combine everything well.
+   Sprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis. Enjoy!
+--------------------------------------------------------------------------------
+
+[13/51] Chicken Karaage
+   ID: 52831
+   Categoría: Chicken
+   Origen: Japanese
+   Ingredientes: chicken, ginger, garlic, soy sauce, sake, granulated sugar, potato starch, vegetable oil, lemon
+   Instrucciones: Add the ginger, garlic, soy sauce, sake and sugar to a bowl and whisk to combine. Add the chicken, then stir to coat evenly. Cover and refrigerate for at least 1 hour.
+
+Add 1 inch of vegetable oil to a heavy bottomed pot and heat until the oil reaches 360 degrees F. Line a wire rack with 2 sheets of paper towels and get your tongs out. Put the potato starch in a bowl
+
+Add a handful of chicken to the potato starch and toss to coat each piece evenly.
+
+Fry the karaage in batches until the exterior is a medium brown and the chicken is cooked through. Transfer the fried chicken to the paper towel lined rack. If you want the karaage to stay crispy longer, you can fry the chicken a second time, until it's a darker color after it's cooled off once. Serve with lemon wedges.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Chicken Karaage
+   CATEGORÍA: Chicken
+   ORIGEN: Japanese
+   INGREDIENTES: chicken, ginger, garlic, soy sauce, sake, granulated sugar, potato starch, vegetable oil, lemon
+   INSTRUCCIONES: Add the ginger, garlic, soy sauce, sake and sugar to a bowl and whisk to combine. Add the chicken, then stir to coat evenly. Cover and refrigerate for at least 1 hour.
+   
+   Add 1 inch of vegetable oil to a heavy bottomed pot and heat until the oil reaches 360 degrees F. Line a wire rack with 2 sheets of paper towels and get your tongs out. Put the potato starch in a bowl
+   
+   Add a handful of chicken to the potato starch and toss to coat each piece evenly.
+   
+   Fry the karaage in batches until the exterior is a medium brown and the chicken is cooked through. Transfer the fried chicken to the paper towel lined rack. If you want the karaage to stay crispy longer, you can fry the chicken a second time, until it's a darker color after it's cooled off once. Serve with lemon wedges.
+--------------------------------------------------------------------------------
+
+[14/51] Chicken Mandi
+   ID: 53358
+   Categoría: Chicken
+   Origen: India
+   Ingredientes: chicken, basmati rice, water, onion, garlic, green chilli, salt, oil, turmeric powder, coriander, cardamom, cloves, cinnamon, pepper, bay leaf
+   Instrucciones: 1. Clean and cut the chicken; marinate briefly with salt, turmeric and a little oil.
+2. Rinse and soak basmati rice 20–30 minutes.
+3. In a large pot, heat ghee/oil. Fry chopped onion until golden. Add minced garlic and green chillies and fry 1–2 min.
+4. Add whole spices (cardamom, cloves, cinnamon, bay leaves) and ground spices (coriander, cumin). Stir until fragrant.
+5. Add chicken pieces, brown lightly and add enough water/chicken stock to cover. Simmer until chicken is nearly cooked.
+6. Remove chicken; measure remaining liquid and add soaked rice. Bring to a boil, then reduce heat, cover and cook rice until almost done.
+7. Return the chicken to the rice pot on top, cover tightly and steam on low for 10–15 min so flavors meld.
+8. (Optional) For authentic smoky aroma: heat a small charcoal until red hot, place it on a small foil cup in the centre of the pot, add a tsp of butter/oil on the coal then cover immediately to trap smoke for 5–10 minutes. Remove coal.
+9. Garnish with fried onions, chopped coriander and serve with chutney or raita.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Chicken Mandi
+   CATEGORÍA: Chicken
+   ORIGEN: India
+   INGREDIENTES: chicken, basmati rice, water, onion, garlic, green chilli, salt, oil, turmeric powder, coriander, cardamom, cloves, cinnamon, pepper, bay leaf
+   INSTRUCCIONES: 1. Clean and cut the chicken; marinate briefly with salt, turmeric and a little oil.
+   2. Rinse and soak basmati rice 20–30 minutes.
+   3. In a large pot, heat ghee/oil. Fry chopped onion until golden. Add minced garlic and green chillies and fry 1–2 min.
+   4. Add whole spices (cardamom, cloves, cinnamon, bay leaves) and ground spices (coriander, cumin). Stir until fragrant.
+   5. Add chicken pieces, brown lightly and add enough water/chicken stock to cover. Simmer until chicken is nearly cooked.
+   6. Remove chicken; measure remaining liquid and add soaked rice. Bring to a boil, then reduce heat, cover and cook rice until almost done.
+   7. Return the chicken to the rice pot on top, cover tightly and steam on low for 10–15 min so flavors meld.
+   8. (Optional) For authentic smoky aroma: heat a small charcoal until red hot, place it on a small foil cup in the centre of the pot, add a tsp of butter/oil on the coal then cover immediately to trap smoke for 5–10 minutes. Remove coal.
+   9. Garnish with fried onions, chopped coriander and serve with chutney or raita.
+--------------------------------------------------------------------------------
+
+[15/51] Chicken Marengo
+   ID: 52920
+   Categoría: Chicken
+   Origen: France
+   Ingredientes: olive oil, mushrooms, chicken legs, passata, chicken stock cube, black olives, parsley
+   Instrucciones: Heat the oil in a large flameproof casserole dish and stir-fry the mushrooms until they start to soften. Add the chicken legs and cook briefly on each side to colour them a little.
+Pour in the passata, crumble in the stock cube and stir in the olives. Season with black pepper – you shouldn’t need salt. Cover and simmer for 40 mins until the chicken is tender. Sprinkle with parsley and serve with pasta and a salad, or mash and green veg, if you like.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Chicken Marengo
+   CATEGORÍA: Chicken
+   ORIGEN: France
+   INGREDIENTES: olive oil, mushrooms, chicken legs, passata, chicken stock cube, black olives, parsley
+   INSTRUCCIONES: Heat the oil in a large flameproof casserole dish and stir-fry the mushrooms until they start to soften. Add the chicken legs and cook briefly on each side to colour them a little.
+   Pour in the passata, crumble in the stock cube and stir in the olives. Season with black pepper – you shouldn’t need salt. Cover and simmer for 40 mins until the chicken is tender. Sprinkle with parsley and serve with pasta and a salad, or mash and green veg, if you like.
+--------------------------------------------------------------------------------
+
+[16/51] Chicken Parmentier
+   ID: 52879
+   Categoría: Chicken
+   Origen: France
+   Ingredientes: potatoes, butter, double cream, egg yolks, butter, shallots, carrots, celery, garlic clove, white wine, tomato puree, tinned tomatos, chicken stock, chicken, black olives, parsley, gruyere cheese
+   Instrucciones: For the topping, boil the potatoes in salted water until tender. Drain and push through a potato ricer, or mash thoroughly. Stir in the butter, cream and egg yolks. Season and set aside.
+For the filling, melt the butter in a large pan. Add the shallots, carrots and celery and gently fry until soft, then add the garlic. Pour in the wine and cook for 1 minute. Stir in the tomato purée, chopped tomatoes and stock and cook for 10–15 minutes, until thickened. Add the shredded chicken, olives and parsley. Season to taste with salt and pepper.
+Preheat the oven to 180C/160C Fan/Gas 4.
+Put the filling in a 20x30cm/8x12in ovenproof dish and top with the mashed potato. Grate over the Gruyère. Bake for 30–35 minutes, until piping hot and the potato is golden-brown.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Chicken Parmentier
+   CATEGORÍA: Chicken
+   ORIGEN: France
+   INGREDIENTES: potatoes, butter, double cream, egg yolks, butter, shallots, carrots, celery, garlic clove, white wine, tomato puree, tinned tomatos, chicken stock, chicken, black olives, parsley, gruyere cheese
+   INSTRUCCIONES: For the topping, boil the potatoes in salted water until tender. Drain and push through a potato ricer, or mash thoroughly. Stir in the butter, cream and egg yolks. Season and set aside.
+   For the filling, melt the butter in a large pan. Add the shallots, carrots and celery and gently fry until soft, then add the garlic. Pour in the wine and cook for 1 minute. Stir in the tomato purée, chopped tomatoes and stock and cook for 10–15 minutes, until thickened. Add the shredded chicken, olives and parsley. Season to taste with salt and pepper.
+   Preheat the oven to 180C/160C Fan/Gas 4.
+   Put the filling in a 20x30cm/8x12in ovenproof dish and top with the mashed potato. Grate over the Gruyère. Bake for 30–35 minutes, until piping hot and the potato is golden-brown.
+--------------------------------------------------------------------------------
+
+[17/51] Chicken Shawarma with homemade garlic herb yoghurt sauce
+   ID: 53218
+   Categoría: Chicken
+   Origen: Saudi Arabian
+   Ingredientes: chicken breast, garlic, ground coriander, ground cumin, ground cardomom, cayenne pepper, smoked paprika, salt, lemon juice, olive oil, greek yogurt, garlic, cumin, lemon juice
+   Instrucciones: 1
+Start by cutting your chicken up into reasonably small slices. Grab your ziplock bag and dump the freshly sliced chicken inside.
+2
+Add garlic, coriander, cumin, cardomom, cayenne pepper, paprika, salt, pepper, lemon juice and olive oil to the bag. Close the bag and mix thoroughly. Place in fridge for 10-12 hours (shorter is fine but longer is better).
+3
+Once ready to cook, heat your fry pan to medium-high and add a tiny bit of olive oil. Fry one side of all of your flatbreads until slightly toasty. Remove from pan, add enough oil to coat the fry pan. Put crumble fries into air fryer on 180 for 15 minutes shaking occasionally.
+4
+The pan should be pretty hot by now, add the chicken in 2 batches (unless you have a big fry pan) to avoid overcrowding. The chicken should get a nice sear and darker colour which is perfect. Cook for a further 5-8 minutes or until cooked through. Repeat with next chicken batch.
+5
+While chicken is cooking, place your Greek yoghurt into a bowl. Combine garlic, finely chopped mint and parsley, squeeze or so of lemon and cumin. Combine and add salt to taste. In a small bowl, combine 1tsp garlic powder, paprika, cumin, onion powder, oregano, dried parsley, cayenne pepper (optional) mix and leave aside for fries.
+6
+Season fries immediately once cooked and add salt to taste. Once the chicken is complete, serve immediately by laying out your flatbread, spreading the sauce evenly over the bread, add lettuce, onion, tomato, fries, chicken, feta and more sauce on top. Serve immediately.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Chicken Shawarma with homemade garlic herb yoghurt sauce
+   CATEGORÍA: Chicken
+   ORIGEN: Saudi Arabian
+   INGREDIENTES: chicken breast, garlic, ground coriander, ground cumin, ground cardomom, cayenne pepper, smoked paprika, salt, lemon juice, olive oil, greek yogurt, garlic, cumin, lemon juice
+   INSTRUCCIONES: 1
+   Start by cutting your chicken up into reasonably small slices. Grab your ziplock bag and dump the freshly sliced chicken inside.
+   2
+   Add garlic, coriander, cumin, cardomom, cayenne pepper, paprika, salt, pepper, lemon juice and olive oil to the bag. Close the bag and mix thoroughly. Place in fridge for 10-12 hours (shorter is fine but longer is better).
+   3
+   Once ready to cook, heat your fry pan to medium-high and add a tiny bit of olive oil. Fry one side of all of your flatbreads until slightly toasty. Remove from pan, add enough oil to coat the fry pan. Put crumble fries into air fryer on 180 for 15 minutes shaking occasionally.
+   4
+   The pan should be pretty hot by now, add the chicken in 2 batches (unless you have a big fry pan) to avoid overcrowding. The chicken should get a nice sear and darker colour which is perfect. Cook for a further 5-8 minutes or until cooked through. Repeat with next chicken batch.
+   5
+   While chicken is cooking, place your Greek yoghurt into a bowl. Combine garlic, finely chopped mint and parsley, squeeze or so of lemon and cumin. Combine and add salt to taste. In a small bowl, combine 1tsp garlic powder, paprika, cumin, onion powder, oregano, dried parsley, cayenne pepper (optional) mix and leave aside for fries.
+   6
+   Season fries immediately once cooked and add salt to taste. Once the chicken is complete, serve immediately by laying out your flatbread, spreading the sauce evenly over the bread, add lettuce, onion, tomato, fries, chicken, feta and more sauce on top. Serve immediately.
+--------------------------------------------------------------------------------
+
+[18/51] Chinese Orange Chicken
+   ID: 53365
+   Categoría: Chicken
+   Origen: Chinese
+   Ingredientes: orange, orange juice, soy sauce, water, rice vinegar, cornstarch, sesame seed oil, sugar, chicken thighs, egg, salt, black pepper, cornstarch, all purpose flour, vegetable oil, garlic, shallots, scallions, sesame seed, rice
+   Instrucciones: Make the orange sauce:
+Whisk together sauce ingredients in a medium bowl. Set aside.
+
+
+Prep the chicken:
+Cut chicken into about 1-inch cubes. Whisk eggs with salt and black pepper in a bowl and add chicken. Stir together.
+
+In a separate bowl, whisk together flour and cornstarch. Remove chicken from eggs with a slotted spoon or tongs, letting excess egg drain off, then transfer to cornstarch mixture and coat well.
+
+
+Fry the chicken:
+Add oil to a large 10- to 12-inch skillet. Heat over medium-high heat until it reaches 350°F. If you don’t have a thermometer, you can also test the temperature by sprinkling in some flour. If the oil is hot enough, it should fizzle immediately.
+
+Once oil is hot, fry the chicken in two batches. The oil might not completely cover the chicken—that’s okay. Cook for 3 to 4 minutes. Flip the chicken pieces and cook until the chicken is cooked through, about 3 to 4 more minutes. Total cook time is about 6 to 8 minutes.
+
+Remove fried chicken cubes and transfer to a plate lined with paper towels, so the chicken can drain. Repeat until all the chicken is cooked.
+
+
+Simmer the chicken in the sauce:
+Once chicken is done, pour out hot oil and wipe pan clean. Add a fresh tablespoon of oil along with chopped garlic and shallot. Cook for a minute and then add the sauce. Simmer the sauce until it starts to thicken.
+
+Once the sauce is lightly bubbling, add fried chicken and toss together to coat. The sauce should continue to thicken and stick to the chicken. Let simmer for a minute or two more. Serve orange chicken over cooked white rice, garnished with sesame seeds and fresh scallions.
+
+Did you love this recipe? Let us know with a rating and review!
+
+
+LEFTOVERS! The orange chicken keeps well in the fridge for 5 days. Reheat in a skillet with a splash of water over low heat. Freeze the orange chicken for up to 3 months, but be sure to thaw it before reheating so the chicken doesn’t clump together.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Chinese Orange Chicken
+   CATEGORÍA: Chicken
+   ORIGEN: Chinese
+   INGREDIENTES: orange, orange juice, soy sauce, water, rice vinegar, cornstarch, sesame seed oil, sugar, chicken thighs, egg, salt, black pepper, cornstarch, all purpose flour, vegetable oil, garlic, shallots, scallions, sesame seed, rice
+   INSTRUCCIONES: Make the orange sauce:
+   Whisk together sauce ingredients in a medium bowl. Set aside.
+   
+   
+   Prep the chicken:
+   Cut chicken into about 1-inch cubes. Whisk eggs with salt and black pepper in a bowl and add chicken. Stir together.
+   
+   In a separate bowl, whisk together flour and cornstarch. Remove chicken from eggs with a slotted spoon or tongs, letting excess egg drain off, then transfer to cornstarch mixture and coat well.
+   
+   
+   Fry the chicken:
+   Add oil to a large 10- to 12-inch skillet. Heat over medium-high heat until it reaches 350°F. If you don’t have a thermometer, you can also test the temperature by sprinkling in some flour. If the oil is hot enough, it should fizzle immediately.
+   
+   Once oil is hot, fry the chicken in two batches. The oil might not completely cover the chicken—that’s okay. Cook for 3 to 4 minutes. Flip the chicken pieces and cook until the chicken is cooked through, about 3 to 4 more minutes. Total cook time is about 6 to 8 minutes.
+   
+   Remove fried chicken cubes and transfer to a plate lined with paper towels, so the chicken can drain. Repeat until all the chicken is cooked.
+   
+   
+   Simmer the chicken in the sauce:
+   Once chicken is done, pour out hot oil and wipe pan clean. Add a fresh tablespoon of oil along with chopped garlic and shallot. Cook for a minute and then add the sauce. Simmer the sauce until it starts to thicken.
+   
+   Once the sauce is lightly bubbling, add fried chicken and toss together to coat. The sauce should continue to thicken and stick to the chicken. Let simmer for a minute or two more. Serve orange chicken over cooked white rice, garnished with sesame seeds and fresh scallions.
+   
+   Did you love this recipe? Let us know with a rating and review!
+   
+   
+   LEFTOVERS! The orange chicken keeps well in the fridge for 5 days. Reheat in a skillet with a splash of water over low heat. Freeze the orange chicken for up to 3 months, but be sure to thaw it before reheating so the chicken doesn’t clump together.
+--------------------------------------------------------------------------------
+
+[19/51] Dutch poffertjes (mini pancakes)
+   ID: 53379
+   Categoría: Breakfast
+   Origen: Netherlands
+   Ingredientes: flour, buckwheat flour, eggs, butter, milk, yeast, vanilla sugar, butter, icing sugar
+   Instrucciones: Mix the dry yeast with some of the luke warm milk en stir until dissolved.
+Place buckwheat and the flour together in a bowl and make a small circle in the middle. Add the yeast mixture into it. Add the milk and stir until you have a smooth batter.
+Add the eggs, salt and vanille sugar and stir through. Leave to stand and rise for about 45 minutes.
+Heat the poffertjespan and add a bit of butter into each hole. Fill halfway with batter and first bake one side until you can see the top dry out a little. Turn the poffertjes around with a small fork and bake the other side until cooked and golden brown.
+Serve the poffertjes with butter and icing sugar
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Dutch poffertjes (mini pancakes)
+   CATEGORÍA: Breakfast
+   ORIGEN: Netherlands
+   INGREDIENTES: flour, buckwheat flour, eggs, butter, milk, yeast, vanilla sugar, butter, icing sugar
+   INSTRUCCIONES: Mix the dry yeast with some of the luke warm milk en stir until dissolved.
+   Place buckwheat and the flour together in a bowl and make a small circle in the middle. Add the yeast mixture into it. Add the milk and stir until you have a smooth batter.
+   Add the eggs, salt and vanille sugar and stir through. Leave to stand and rise for about 45 minutes.
+   Heat the poffertjespan and add a bit of butter into each hole. Fill halfway with batter and first bake one side until you can see the top dry out a little. Turn the poffertjes around with a small fork and bake the other side until cooked and golden brown.
+   Serve the poffertjes with butter and icing sugar
+--------------------------------------------------------------------------------
+
+[20/51] Easy Spanish chicken
+   ID: 53143
+   Categoría: Chicken
+   Origen: Spanish
+   Ingredientes: extra virgin olive oil, onion, chorizo, red pepper, yellow pepper, sweet smoked paprika, garlic, tinned tomatos, green olives, butter beans, chicken thighs, parsley
+   Instrucciones: step 1
+Heat the oven to 200C/180C fan/gas 6. Heat the olive oil in a large ovenproof frying pan over a medium heat and fry the onion, chorizo and peppers along with a pinch of salt and pepper for 15 mins until the veg has softened and the chorizo has released its oils. Add the paprika and garlic, and cook for another few minutes until fragrant.
+
+step 2
+Tip in the chopped tomatoes, olives and butter beans, stir to combine and season. Nestle in the chicken thighs and season well. Transfer to the oven and bake for 40 mins until the chicken skin is crisp and the meat cooked through and tender. Scatter with the parsley and serve.
+
+Watch after ad (0.04):
+3 Budget Egg Ideas
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Easy Spanish chicken
+   CATEGORÍA: Chicken
+   ORIGEN: Spanish
+   INGREDIENTES: extra virgin olive oil, onion, chorizo, red pepper, yellow pepper, sweet smoked paprika, garlic, tinned tomatos, green olives, butter beans, chicken thighs, parsley
+   INSTRUCCIONES: step 1
+   Heat the oven to 200C/180C fan/gas 6. Heat the olive oil in a large ovenproof frying pan over a medium heat and fry the onion, chorizo and peppers along with a pinch of salt and pepper for 15 mins until the veg has softened and the chorizo has released its oils. Add the paprika and garlic, and cook for another few minutes until fragrant.
+   
+   step 2
+   Tip in the chopped tomatoes, olives and butter beans, stir to combine and season. Nestle in the chicken thighs and season well. Transfer to the oven and bake for 40 mins until the chicken skin is crisp and the meat cooked through and tender. Scatter with the parsley and serve.
+   
+   Watch after ad (0.04):
+   3 Budget Egg Ideas
+--------------------------------------------------------------------------------
+
+[21/51] General Tsos Chicken
+   ID: 52951
+   Categoría: Chicken
+   Origen: Chinese
+   Ingredientes: chicken breast, plain flour, egg, starch, baking powder, salt, onion salt, garlic powder, water, chicken stock, duck sauce, soy sauce, honey, rice vinegar, sesame seed oil, gochujang, starch, garlic, spring onions, ginger
+   Instrucciones: DIRECTIONS:
+STEP 1 - SAUCE
+In a bowl, add 2 Cups of water, 2 Tablespoon soy sauce, 2 Tablespoon white vinegar, sherry cooking wine, 1/4 Teaspoon white pepper, minced ginger, minced garlic, hot pepper, ketchup, hoisin sauce, and sugar.
+Mix together well and set aside.
+STEP 2 - MARINATING THE CHICKEN
+In a bowl, add the chicken, 1 pinch of salt, 1 pinch of white pepper, 2 egg whites, and 3 Tablespoon of corn starch
+STEP 3 - DEEP FRY THE CHICKEN
+Deep fry the chicken at 350 degrees for 3-4 minutes or until it is golden brown and loosen up the chicken so that they don't stick together.
+Set the chicken aside.
+STEP 4 - STIR FRY
+Add the sauce to the wok and then the broccoli and wait until it is boiling.
+To thicken the sauce, whisk together 2 Tablespoon of cornstarch and 4 Tablespoon of water in a bowl and slowly add to your stir-fry until it's the right thickness.
+Next add in the chicken and stir-fry for a minute and serve on a plate
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: General Tsos Chicken
+   CATEGORÍA: Chicken
+   ORIGEN: Chinese
+   INGREDIENTES: chicken breast, plain flour, egg, starch, baking powder, salt, onion salt, garlic powder, water, chicken stock, duck sauce, soy sauce, honey, rice vinegar, sesame seed oil, gochujang, starch, garlic, spring onions, ginger
+   INSTRUCCIONES: DIRECTIONS:
+   STEP 1 - SAUCE
+   In a bowl, add 2 Cups of water, 2 Tablespoon soy sauce, 2 Tablespoon white vinegar, sherry cooking wine, 1/4 Teaspoon white pepper, minced ginger, minced garlic, hot pepper, ketchup, hoisin sauce, and sugar.
+   Mix together well and set aside.
+   STEP 2 - MARINATING THE CHICKEN
+   In a bowl, add the chicken, 1 pinch of salt, 1 pinch of white pepper, 2 egg whites, and 3 Tablespoon of corn starch
+   STEP 3 - DEEP FRY THE CHICKEN
+   Deep fry the chicken at 350 degrees for 3-4 minutes or until it is golden brown and loosen up the chicken so that they don't stick together.
+   Set the chicken aside.
+   STEP 4 - STIR FRY
+   Add the sauce to the wok and then the broccoli and wait until it is boiling.
+   To thicken the sauce, whisk together 2 Tablespoon of cornstarch and 4 Tablespoon of water in a bowl and slowly add to your stir-fry until it's the right thickness.
+   Next add in the chicken and stir-fry for a minute and serve on a plate
+--------------------------------------------------------------------------------
+
+[22/51] Honey Teriyaki Salmon
+   ID: 52773
+   Categoría: Seafood
+   Origen: Japanese
+   Ingredientes: salmon, olive oil, soy sauce, sake, sesame seed
+   Instrucciones: Mix all the ingredients in the Honey Teriyaki Glaze together. Whisk to blend well. Combine the salmon and the Glaze together.
+
+Heat up a skillet on medium-low heat. Add the oil, Pan-fry the salmon on both sides until it’s completely cooked inside and the glaze thickens.
+
+Garnish with sesame and serve immediately.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Honey Teriyaki Salmon
+   CATEGORÍA: Seafood
+   ORIGEN: Japanese
+   INGREDIENTES: salmon, olive oil, soy sauce, sake, sesame seed
+   INSTRUCCIONES: Mix all the ingredients in the Honey Teriyaki Glaze together. Whisk to blend well. Combine the salmon and the Glaze together.
+   
+   Heat up a skillet on medium-low heat. Add the oil, Pan-fry the salmon on both sides until it’s completely cooked inside and the glaze thickens.
+   
+   Garnish with sesame and serve immediately.
+--------------------------------------------------------------------------------
+
+[23/51] Katsu Chicken curry
+   ID: 52820
+   Categoría: Chicken
+   Origen: Japanese
+   Ingredientes: chicken breast, plain flour, egg, breadcrumbs, vegetable oil, sunflower oil, onions, garlic, carrot, plain flour, curry powder, chicken stock, honey, soy sauce, bay leaf, garam masala
+   Instrucciones: Prep:15min  ›  Cook:30min  ›  Ready in:45min 
+
+For the curry sauce: Heat oil in medium non-stick saucepan, add onion and garlic and cook until softened. Stir in carrots and cook over low heat for 10 to 12 minutes.
+Add flour and curry powder; cook for 1 minute. Gradually stir in stock until combined; add honey, soy sauce and bay leaf. Slowly bring to the boil.
+Turn down heat and simmer for 20 minutes or until sauce thickens but is still of pouring consistency. Stir in garam masala. Pour the curry sauce through a sieve; return to saucepan and keep on low heat until ready to serve.
+For the chicken: Season both sides of chicken breasts with salt and pepper. Place flour, egg and breadcrumbs in separate bowls and arrange in a row. Coat the chicken breasts in flour, then dip them into the egg, then coat in breadcrumbs, making sure you cover both sides.
+Heat oil in large frying pan over medium-high heat. Place chicken into hot oil and cook until golden brown, about 3 or 4 minutes each side. Once cooked, place on kitchen paper to absorb excess oil.
+Pour curry sauce over chicken, serve with white rice and enjoy!
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Katsu Chicken curry
+   CATEGORÍA: Chicken
+   ORIGEN: Japanese
+   INGREDIENTES: chicken breast, plain flour, egg, breadcrumbs, vegetable oil, sunflower oil, onions, garlic, carrot, plain flour, curry powder, chicken stock, honey, soy sauce, bay leaf, garam masala
+   INSTRUCCIONES: Prep:15min  ›  Cook:30min  ›  Ready in:45min 
+   
+   For the curry sauce: Heat oil in medium non-stick saucepan, add onion and garlic and cook until softened. Stir in carrots and cook over low heat for 10 to 12 minutes.
+   Add flour and curry powder; cook for 1 minute. Gradually stir in stock until combined; add honey, soy sauce and bay leaf. Slowly bring to the boil.
+   Turn down heat and simmer for 20 minutes or until sauce thickens but is still of pouring consistency. Stir in garam masala. Pour the curry sauce through a sieve; return to saucepan and keep on low heat until ready to serve.
+   For the chicken: Season both sides of chicken breasts with salt and pepper. Place flour, egg and breadcrumbs in separate bowls and arrange in a row. Coat the chicken breasts in flour, then dip them into the egg, then coat in breadcrumbs, making sure you cover both sides.
+   Heat oil in large frying pan over medium-high heat. Place chicken into hot oil and cook until golden brown, about 3 or 4 minutes each side. Once cooked, place on kitchen paper to absorb excess oil.
+   Pour curry sauce over chicken, serve with white rice and enjoy!
+--------------------------------------------------------------------------------
+
+[24/51] Kentucky Fried Chicken
+   ID: 52813
+   Categoría: Chicken
+   Origen: United States
+   Ingredientes: chicken, oil, egg white, flour, brown sugar, salt, paprika, onion salt, chili powder, black pepper, celery salt, sage, garlic powder, allspice, oregano, basil, marjoram
+   Instrucciones: Preheat fryer to 350°F. Thoroughly mix together all the spice mix ingredients.
+Combine spice mix with flour, brown sugar and salt.
+Dip chicken pieces in egg white to lightly coat them, then transfer to flour mixture. Turn a few times and make sure the flour mix is really stuck to the chicken. Repeat with all the chicken pieces.
+Let chicken pieces rest for 5 minutes so crust has a chance to dry a bit.
+Fry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165°F.
+Let chicken drain on a few paper towels when it comes out of the fryer. Serve hot.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Kentucky Fried Chicken
+   CATEGORÍA: Chicken
+   ORIGEN: United States
+   INGREDIENTES: chicken, oil, egg white, flour, brown sugar, salt, paprika, onion salt, chili powder, black pepper, celery salt, sage, garlic powder, allspice, oregano, basil, marjoram
+   INSTRUCCIONES: Preheat fryer to 350°F. Thoroughly mix together all the spice mix ingredients.
+   Combine spice mix with flour, brown sugar and salt.
+   Dip chicken pieces in egg white to lightly coat them, then transfer to flour mixture. Turn a few times and make sure the flour mix is really stuck to the chicken. Repeat with all the chicken pieces.
+   Let chicken pieces rest for 5 minutes so crust has a chance to dry a bit.
+   Fry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165°F.
+   Let chicken drain on a few paper towels when it comes out of the fryer. Serve hot.
+--------------------------------------------------------------------------------
+
+[25/51] Kung Pao Chicken
+   ID: 52945
+   Categoría: Chicken
+   Origen: Chinese
+   Ingredientes: sake, soy sauce, sesame seed oil, corn flour, water, chicken, chilli powder, rice vinegar, brown sugar, spring onions, garlic clove, water chestnut, peanuts
+   Instrucciones: Combine the sake or rice wine, soy sauce, sesame oil and cornflour dissolved in water. Divide mixture in half.
+In a glass dish or bowl, combine half of the sake mixture with the chicken pieces and toss to coat. Cover dish and place in refrigerator for about 30 minutes.
+In a medium frying pan, combine remaining sake mixture, chillies, vinegar and sugar. Mix together and add spring onion, garlic, water chestnuts and peanuts. Heat sauce slowly over medium heat until aromatic.
+Meanwhile, remove chicken from marinade and sauté in a large frying pan until juices run clear. When sauce is aromatic, add sautéed chicken and let simmer together until sauce thickens.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Kung Pao Chicken
+   CATEGORÍA: Chicken
+   ORIGEN: Chinese
+   INGREDIENTES: sake, soy sauce, sesame seed oil, corn flour, water, chicken, chilli powder, rice vinegar, brown sugar, spring onions, garlic clove, water chestnut, peanuts
+   INSTRUCCIONES: Combine the sake or rice wine, soy sauce, sesame oil and cornflour dissolved in water. Divide mixture in half.
+   In a glass dish or bowl, combine half of the sake mixture with the chicken pieces and toss to coat. Cover dish and place in refrigerator for about 30 minutes.
+   In a medium frying pan, combine remaining sake mixture, chillies, vinegar and sugar. Mix together and add spring onion, garlic, water chestnuts and peanuts. Heat sauce slowly over medium heat until aromatic.
+   Meanwhile, remove chicken from marinade and sauté in a large frying pan until juices run clear. When sauce is aromatic, add sautéed chicken and let simmer together until sauce thickens.
+--------------------------------------------------------------------------------
+
+[26/51] Nutty Chicken Curry
+   ID: 52851
+   Categoría: Chicken
+   Origen: India
+   Ingredientes: red chilli, ginger, garlic, coriander, sunflower oil, chicken breasts, peanut butter, chicken stock, greek yogurt
+   Instrucciones: Finely slice a quarter of the chilli, then put the rest in a food processor with the ginger, garlic, coriander stalks and one-third of the leaves. Whizz to a rough paste with a splash of water if needed.
+Heat the oil in a frying pan, then quickly brown the chicken chunks for 1 min. Stir in the paste for another min, then add the peanut butter, stock and yogurt. When the sauce is gently bubbling, cook for 10 mins until the chicken is just cooked through and sauce thickened. Stir in most of the remaining coriander, then scatter the rest on top with the chilli, if using. Eat with rice or mashed sweet potato.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Nutty Chicken Curry
+   CATEGORÍA: Chicken
+   ORIGEN: India
+   INGREDIENTES: red chilli, ginger, garlic, coriander, sunflower oil, chicken breasts, peanut butter, chicken stock, greek yogurt
+   INSTRUCCIONES: Finely slice a quarter of the chilli, then put the rest in a food processor with the ginger, garlic, coriander stalks and one-third of the leaves. Whizz to a rough paste with a splash of water if needed.
+   Heat the oil in a frying pan, then quickly brown the chicken chunks for 1 min. Stir in the paste for another min, then add the peanut butter, stock and yogurt. When the sauce is gently bubbling, cook for 10 mins until the chicken is just cooked through and sauce thickened. Stir in most of the remaining coriander, then scatter the rest on top with the chilli, if using. Eat with rice or mashed sweet potato.
+--------------------------------------------------------------------------------
+
+[27/51] Oatmeal pancakes
+   ID: 53331
+   Categoría: Breakfast
+   Origen: Venezuela
+   Ingredientes: egg, milk, sugar, baking powder, salt, vanilla extract, ground oats, butter, sugar syrup, strawberries
+   Instrucciones: Place all the ingredients in the glass and beat.
+Let the mixture stand for 10 minutes.
+Grease a hot frying pan with a little butter and pour a little of the mixture.
+When it starts to bubble on the surface, turn over with a spatula. Cook over medium-low heat so that they do not burn.
+Finally, add the caramel and strawberries.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Oatmeal pancakes
+   CATEGORÍA: Breakfast
+   ORIGEN: Venezuela
+   INGREDIENTES: egg, milk, sugar, baking powder, salt, vanilla extract, ground oats, butter, sugar syrup, strawberries
+   INSTRUCCIONES: Place all the ingredients in the glass and beat.
+   Let the mixture stand for 10 minutes.
+   Grease a hot frying pan with a little butter and pour a little of the mixture.
+   When it starts to bubble on the surface, turn over with a spatula. Cook over medium-low heat so that they do not burn.
+   Finally, add the caramel and strawberries.
+--------------------------------------------------------------------------------
+
+[28/51] Pad Thai
+   ID: 53191
+   Categoría: Seafood
+   Origen: Thai
+   Ingredientes: rice noodles, lime, cayenne pepper, muscovado sugar, fish sauce, vegetable oil, tiger prawns, spring onions, bean sprouts, peanuts, coriander, lime, sweet chilli sauce
+   Instrucciones: step 1
+Put the noodles in a large heatproof bowl, pour boiling water over them and leave for 4 minutes, then drain and refresh under cold running water.
+
+step 2
+Put the lime juice, cayenne, sugar and fish sauce in a bowl and mix well. Have all the other ingredients ready by the cooker.
+
+step 3
+Heat the oil and fry the prawns until warmed through. Add the spring onions and noodles and toss around. Tip in the lime juice mixture, then stir in the beansprouts and half the peanuts and coriander. Cook for 1 minute until everything is heated through.
+
+step 4
+Pile into a large dish, scatter with the rest of the peanuts and coriander, and serve with lime wedges and sweet chilli sauce.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Pad Thai
+   CATEGORÍA: Seafood
+   ORIGEN: Thai
+   INGREDIENTES: rice noodles, lime, cayenne pepper, muscovado sugar, fish sauce, vegetable oil, tiger prawns, spring onions, bean sprouts, peanuts, coriander, lime, sweet chilli sauce
+   INSTRUCCIONES: step 1
+   Put the noodles in a large heatproof bowl, pour boiling water over them and leave for 4 minutes, then drain and refresh under cold running water.
+   
+   step 2
+   Put the lime juice, cayenne, sugar and fish sauce in a bowl and mix well. Have all the other ingredients ready by the cooker.
+   
+   step 3
+   Heat the oil and fry the prawns until warmed through. Add the spring onions and noodles and toss around. Tip in the lime juice mixture, then stir in the beansprouts and half the peanuts and coriander. Cook for 1 minute until everything is heated through.
+   
+   step 4
+   Pile into a large dish, scatter with the rest of the peanuts and coriander, and serve with lime wedges and sweet chilli sauce.
+--------------------------------------------------------------------------------
+
+[29/51] Pancakes
+   ID: 52854
+   Categoría: Dessert
+   Origen: United States
+   Ingredientes: flour, eggs, milk, sunflower oil, sugar, raspberries, blueberries
+   Instrucciones: Put the flour, eggs, milk, 1 tbsp oil and a pinch of salt into a bowl or large jug, then whisk to a smooth batter. Set aside for 30 mins to rest if you have time, or start cooking straight away.
+Set a medium frying pan or crêpe pan over a medium heat and carefully wipe it with some oiled kitchen paper. When hot, cook your pancakes for 1 min on each side until golden, keeping them warm in a low oven as you go.
+Serve with lemon wedges and sugar, or your favourite filling. Once cold, you can layer the pancakes between baking parchment, then wrap in cling film and freeze for up to 2 months.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Pancakes
+   CATEGORÍA: Dessert
+   ORIGEN: United States
+   INGREDIENTES: flour, eggs, milk, sunflower oil, sugar, raspberries, blueberries
+   INSTRUCCIONES: Put the flour, eggs, milk, 1 tbsp oil and a pinch of salt into a bowl or large jug, then whisk to a smooth batter. Set aside for 30 mins to rest if you have time, or start cooking straight away.
+   Set a medium frying pan or crêpe pan over a medium heat and carefully wipe it with some oiled kitchen paper. When hot, cook your pancakes for 1 min on each side until golden, keeping them warm in a low oven as you go.
+   Serve with lemon wedges and sugar, or your favourite filling. Once cold, you can layer the pancakes between baking parchment, then wrap in cling film and freeze for up to 2 months.
+--------------------------------------------------------------------------------
+
+[30/51] Polskie Nalesniki (Polish Pancakes)
+   ID: 53022
+   Categoría: Dessert
+   Origen: Polish
+   Ingredientes: flour, eggs, milk, water, salt, sugar, butter
+   Instrucciones: Add flour, eggs, milk, water, and salt in a large bowl then mix with a hand mixer until you have a smooth, lump-free batter.
+At this point, mix in the butter or the vegetable oil. Alternatively, you can use them to grease the pan before frying each pancake.
+Heat a non-stick pan over medium heat, then pour in the batter, swirling the pan to help it spread.
+When the pancake starts pulling away a bit from the sides, and the top is no longer wet, flip it and cook shortly on the other side as well.
+Transfer to a plate. Cook the remaining batter until all used up.
+Serve warm, with the filling of your choice.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Polskie Nalesniki (Polish Pancakes)
+   CATEGORÍA: Dessert
+   ORIGEN: Polish
+   INGREDIENTES: flour, eggs, milk, water, salt, sugar, butter
+   INSTRUCCIONES: Add flour, eggs, milk, water, and salt in a large bowl then mix with a hand mixer until you have a smooth, lump-free batter.
+   At this point, mix in the butter or the vegetable oil. Alternatively, you can use them to grease the pan before frying each pancake.
+   Heat a non-stick pan over medium heat, then pour in the batter, swirling the pan to help it spread.
+   When the pancake starts pulling away a bit from the sides, and the top is no longer wet, flip it and cook shortly on the other side as well.
+   Transfer to a plate. Cook the remaining batter until all used up.
+   Serve warm, with the filling of your choice.
+--------------------------------------------------------------------------------
+
+[31/51] Quick gazpacho
+   ID: 53173
+   Categoría: Starter
+   Origen: Spanish
+   Ingredientes: passata, red pepper, red chilli, garlic, sherry vinegar, lime
+   Instrucciones: step 1
+In a blender (or with a stick blender), whizz together the passata, red pepper, chilli, garlic, sherry vinegar and lime juice until smooth. Season to taste, then serve with ice cubes
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Quick gazpacho
+   CATEGORÍA: Starter
+   ORIGEN: Spanish
+   INGREDIENTES: passata, red pepper, red chilli, garlic, sherry vinegar, lime
+   INSTRUCCIONES: step 1
+   In a blender (or with a stick blender), whizz together the passata, red pepper, chilli, garlic, sherry vinegar and lime juice until smooth. Season to taste, then serve with ice cubes
+--------------------------------------------------------------------------------
+
+[32/51] Salmon Avocado Salad
+   ID: 52960
+   Categoría: Seafood
+   Origen: British
+   Ingredientes: salmon, avocado, cucumber, spinach, mint, lime, honey, olive oil
+   Instrucciones: Season the salmon, then rub with oil. Mix the dressing ingredients together. Halve, stone, peel and slice the avocados. Halve and quarter the cucumber lengthways, then cut into slices. Divide salad, avocado and cucumber between four plates, then drizzle with half the dressing.
+
+Heat a non-stick pan. Add the salmon and fry for 3-4 mins on each side until crisp but still moist inside. Put a salmon fillet on top of each salad and drizzle over the remaining dressing. Serve warm.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Salmon Avocado Salad
+   CATEGORÍA: Seafood
+   ORIGEN: British
+   INGREDIENTES: salmon, avocado, cucumber, spinach, mint, lime, honey, olive oil
+   INSTRUCCIONES: Season the salmon, then rub with oil. Mix the dressing ingredients together. Halve, stone, peel and slice the avocados. Halve and quarter the cucumber lengthways, then cut into slices. Divide salad, avocado and cucumber between four plates, then drizzle with half the dressing.
+   
+   Heat a non-stick pan. Add the salmon and fry for 3-4 mins on each side until crisp but still moist inside. Put a salmon fillet on top of each salad and drizzle over the remaining dressing. Serve warm.
+--------------------------------------------------------------------------------
+
+[33/51] Salmon Eggs Eggs Benedict
+   ID: 52962
+   Categoría: Breakfast
+   Origen: United States
+   Ingredientes: eggs, white wine vinegar, english muffins, butter, smoked salmon, lemon juice, white wine vinegar, egg, unsalted butter
+   Instrucciones: First make the Hollandaise sauce. Put the lemon juice and vinegar in a small bowl, add the egg yolks and whisk with a balloon whisk until light and frothy. Place the bowl over a pan of simmering water and whisk until mixture thickens. Gradually add the butter, whisking constantly until thick – if it looks like it might be splitting, then whisk off the heat for a few mins. Season and keep warm.
+
+To poach the eggs, bring a large pan of water to the boil and add the vinegar. Lower the heat so that the water is simmering gently. Stir the water so you have a slight whirlpool, then slide in the eggs one by one. Cook each for about 4 mins, then remove with a slotted spoon.
+
+Lightly toast and butter the muffins, then put a couple of slices of salmon on each half. Top each with an egg, spoon over some Hollandaise and garnish with chopped chives.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Salmon Eggs Eggs Benedict
+   CATEGORÍA: Breakfast
+   ORIGEN: United States
+   INGREDIENTES: eggs, white wine vinegar, english muffins, butter, smoked salmon, lemon juice, white wine vinegar, egg, unsalted butter
+   INSTRUCCIONES: First make the Hollandaise sauce. Put the lemon juice and vinegar in a small bowl, add the egg yolks and whisk with a balloon whisk until light and frothy. Place the bowl over a pan of simmering water and whisk until mixture thickens. Gradually add the butter, whisking constantly until thick – if it looks like it might be splitting, then whisk off the heat for a few mins. Season and keep warm.
+   
+   To poach the eggs, bring a large pan of water to the boil and add the vinegar. Lower the heat so that the water is simmering gently. Stir the water so you have a slight whirlpool, then slide in the eggs one by one. Cook each for about 4 mins, then remove with a slotted spoon.
+   
+   Lightly toast and butter the muffins, then put a couple of slices of salmon on each half. Top each with an egg, spoon over some Hollandaise and garnish with chopped chives.
+--------------------------------------------------------------------------------
+
+[34/51] Salmon Prawn Risotto
+   ID: 52823
+   Categoría: Seafood
+   Origen: Italian
+   Ingredientes: butter, onion, rice, white wine, vegetable stock, lemon, king prawns, salmon, asparagus, black pepper, parmesan
+   Instrucciones: Melt the butter in a thick-based pan and gently cook the onion without colour until it is soft.
+Add the rice and stir to coat all the grains in the butter
+Add the wine and cook gently stirring until it is absorbed
+Gradually add the hot stock, stirring until each addition is absorbed. Keep stirring until the rice is tender
+Season with the lemon juice and zest, and pepper to taste. (there will probably be sufficient saltiness from the salmon to not need to add salt) Stir gently to heat through
+Serve scattered with the Parmesan and seasonal vegetables.
+Grill the salmon and gently place onto the risotto with the prawns and asparagus
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Salmon Prawn Risotto
+   CATEGORÍA: Seafood
+   ORIGEN: Italian
+   INGREDIENTES: butter, onion, rice, white wine, vegetable stock, lemon, king prawns, salmon, asparagus, black pepper, parmesan
+   INSTRUCCIONES: Melt the butter in a thick-based pan and gently cook the onion without colour until it is soft.
+   Add the rice and stir to coat all the grains in the butter
+   Add the wine and cook gently stirring until it is absorbed
+   Gradually add the hot stock, stirring until each addition is absorbed. Keep stirring until the rice is tender
+   Season with the lemon juice and zest, and pepper to taste. (there will probably be sufficient saltiness from the salmon to not need to add salt) Stir gently to heat through
+   Serve scattered with the Parmesan and seasonal vegetables.
+   Grill the salmon and gently place onto the risotto with the prawns and asparagus
+--------------------------------------------------------------------------------
+
+[35/51] Salmon noodle soup
+   ID: 53234
+   Categoría: Seafood
+   Origen: Vietnamese
+   Ingredientes: chicken stock, thai red curry paste, rice noodles, shiitake mushrooms, sweetcorn, salmon, lime, soy sauce, brown sugar, coriander
+   Instrucciones: step 1
+Pour the stock into a large pan, bring to the boil, then stir in the curry paste. Add the noodles and cook for 8 mins. Tip in the mushrooms and corn and cook for 2 mins more.
+
+step 2
+Add the salmon to the pan and cook for 3 mins or until cooked through. Remove from the heat and stir in the lime juice, soy sauce and a pinch of sugar. Ladle into 4 bowls and sprinkle over the coriander just before you serve.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Salmon noodle soup
+   CATEGORÍA: Seafood
+   ORIGEN: Vietnamese
+   INGREDIENTES: chicken stock, thai red curry paste, rice noodles, shiitake mushrooms, sweetcorn, salmon, lime, soy sauce, brown sugar, coriander
+   INSTRUCCIONES: step 1
+   Pour the stock into a large pan, bring to the boil, then stir in the curry paste. Add the noodles and cook for 8 mins. Tip in the mushrooms and corn and cook for 2 mins more.
+   
+   step 2
+   Add the salmon to the pan and cook for 3 mins or until cooked through. Remove from the heat and stir in the lime juice, soy sauce and a pinch of sugar. Ladle into 4 bowls and sprinkle over the coriander just before you serve.
+--------------------------------------------------------------------------------
+
+[36/51] Salmon noodle wraps
+   ID: 53248
+   Categoría: Seafood
+   Origen: Vietnamese
+   Ingredientes: rice noodles, spring onions, petit pois, chilli, coriander, lime, salmon
+   Instrucciones: step 1
+Heat oven to 200C/fan 180C/gas 6. Put the noodles in a bowl and pour over enough boiling water to just cover them. Leave for 2 mins, until they are bendable, but not too soft, then drain well. Return to the bowl with the spring onions, petit pois, salt and pepper and a third of the butter. Mix well until the butter has melted.
+
+step 2
+Pile the noodles and vegetables onto two large squares of baking parchment, then sit the salmon on top. Slice the remaining butter and arrange over the top of the salmon. Bring the ends of the paper over the fish, fold them together to seal, then tuck the ends of the paper underneath so there are no gaps. Put the parcels on a baking sheet and bake for 15-20 mins. Transfer to dinner plates and serve without delay.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Salmon noodle wraps
+   CATEGORÍA: Seafood
+   ORIGEN: Vietnamese
+   INGREDIENTES: rice noodles, spring onions, petit pois, chilli, coriander, lime, salmon
+   INSTRUCCIONES: step 1
+   Heat oven to 200C/fan 180C/gas 6. Put the noodles in a bowl and pour over enough boiling water to just cover them. Leave for 2 mins, until they are bendable, but not too soft, then drain well. Return to the bowl with the spring onions, petit pois, salt and pepper and a third of the butter. Mix well until the butter has melted.
+   
+   step 2
+   Pile the noodles and vegetables onto two large squares of baking parchment, then sit the salmon on top. Slice the remaining butter and arrange over the top of the salmon. Bring the ends of the paper over the fish, fold them together to seal, then tuck the ends of the paper underneath so there are no gaps. Put the parcels on a baking sheet and bake for 15-20 mins. Transfer to dinner plates and serve without delay.
+--------------------------------------------------------------------------------
+
+[37/51] Shawarma
+   ID: 53028
+   Categoría: Chicken
+   Origen: Egyptian
+   Ingredientes: chicken thighs, coriander, cumin, cardamom, cayenne pepper, paprika, lemon juice, olive oil, greek yogurt, garlic clove, cumin, lemon juice, lettuce, tomato, pita bread
+   Instrucciones: Combine the marinade ingredients in a large ziplock bag (or bowl).
+Add the chicken and use your hands to make sure each piece is coated. If using a ziplock bag, I find it convenient to close the bag then massage the bag to disperse the rub all over each chicken piece.
+Marinate overnight or up to 24 hours.
+Combine the Yoghurt Sauce ingredients in a bowl and mix. Cover and put in the fridge until required (it will last for 3 days in the fridge).
+Heat grill/BBQ (or large heavy based pan on stove) on medium high. You should not need to oil it because the marinade has oil in it and also thigh fillets have fat. But if you are worried then oil your hotplate/grill. (See notes for baking)
+Place chicken on the grill and cook the first side for 4 to 5 minutes until nicely charred, then turn and cook the other side for 3 to 4 minutes (the 2nd side takes less time).
+Remove chicken from the grill and cover loosely with foil. Set aside to rest for 5 minutes.
+TO SERVE
+Slice chicken and pile onto platter alongside flatbreads, Salad and the Yoghurt Sauce.
+To make a wrap, get a piece of flatbread and smear with Yoghurt Sauce. Top with a bit of lettuce and tomato and Chicken Shawarma. Roll up and enjoy!
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Shawarma
+   CATEGORÍA: Chicken
+   ORIGEN: Egyptian
+   INGREDIENTES: chicken thighs, coriander, cumin, cardamom, cayenne pepper, paprika, lemon juice, olive oil, greek yogurt, garlic clove, cumin, lemon juice, lettuce, tomato, pita bread
+   INSTRUCCIONES: Combine the marinade ingredients in a large ziplock bag (or bowl).
+   Add the chicken and use your hands to make sure each piece is coated. If using a ziplock bag, I find it convenient to close the bag then massage the bag to disperse the rub all over each chicken piece.
+   Marinate overnight or up to 24 hours.
+   Combine the Yoghurt Sauce ingredients in a bowl and mix. Cover and put in the fridge until required (it will last for 3 days in the fridge).
+   Heat grill/BBQ (or large heavy based pan on stove) on medium high. You should not need to oil it because the marinade has oil in it and also thigh fillets have fat. But if you are worried then oil your hotplate/grill. (See notes for baking)
+   Place chicken on the grill and cook the first side for 4 to 5 minutes until nicely charred, then turn and cook the other side for 3 to 4 minutes (the 2nd side takes less time).
+   Remove chicken from the grill and cover loosely with foil. Set aside to rest for 5 minutes.
+   TO SERVE
+   Slice chicken and pile onto platter alongside flatbreads, Salad and the Yoghurt Sauce.
+   To make a wrap, get a piece of flatbread and smear with Yoghurt Sauce. Top with a bit of lettuce and tomato and Chicken Shawarma. Roll up and enjoy!
+--------------------------------------------------------------------------------
+
+[38/51] Shawarma bread
+   ID: 53226
+   Categoría: Side
+   Origen: Saudi Arabian
+   Ingredientes: flour, salt, sugar, baking powder, oil, water
+   Instrucciones: 1
+Sieve flour and add baking powder,salt,sugar,oil nd mix together
+2
+Add water nd knead the dough for like 10mins
+3
+Cover the mixture and allow it to rise
+4
+After it rised transfer it to a work surface and form a round (you can use a plate or pot's lid)
+5
+Heat ur pan and put it
+6
+It'll start puffing then you turn it
+7
+And lastly put it in in a warm place, then you'll see it has pocket
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Shawarma bread
+   CATEGORÍA: Side
+   ORIGEN: Saudi Arabian
+   INGREDIENTES: flour, salt, sugar, baking powder, oil, water
+   INSTRUCCIONES: 1
+   Sieve flour and add baking powder,salt,sugar,oil nd mix together
+   2
+   Add water nd knead the dough for like 10mins
+   3
+   Cover the mixture and allow it to rise
+   4
+   After it rised transfer it to a work surface and form a round (you can use a plate or pot's lid)
+   5
+   Heat ur pan and put it
+   6
+   It'll start puffing then you turn it
+   7
+   And lastly put it in in a warm place, then you'll see it has pocket
+--------------------------------------------------------------------------------
+
+[39/51] Shawarma chuck roast wrap
+   ID: 53217
+   Categoría: Beef
+   Origen: Saudi Arabian
+   Ingredientes: chuck roast, beef stock, lemon juice, ground cumin, paprika, salt, ground ginger, turmeric, cayenne pepper, ground cinnamon, ground coriander, ground clove
+   Instrucciones: 1
+In a dutch oven or slow cooker, add all the spices, beef broth and lemon juice. Stir to combine..
+2
+Add the beef and turn to coat, spoon some sauce over the top.
+3
+Cover and cook on low for 8-10 hours.
+4
+After cooking, remove beef and use two forks to shred. Discard any excess fat.
+5
+Skim fat off of the top of the liquid remaining.
+6
+Mix shredded beef into sauce. Keep warm until you are ready to serve.
+7
+Build wrap by spreading garlic sauce on the pita. Top with beef and add garnishes to your liking.
+8
+Fold it burrito style.
+9
+Heat a grill pan and grill the wrap.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Shawarma chuck roast wrap
+   CATEGORÍA: Beef
+   ORIGEN: Saudi Arabian
+   INGREDIENTES: chuck roast, beef stock, lemon juice, ground cumin, paprika, salt, ground ginger, turmeric, cayenne pepper, ground cinnamon, ground coriander, ground clove
+   INSTRUCCIONES: 1
+   In a dutch oven or slow cooker, add all the spices, beef broth and lemon juice. Stir to combine..
+   2
+   Add the beef and turn to coat, spoon some sauce over the top.
+   3
+   Cover and cook on low for 8-10 hours.
+   4
+   After cooking, remove beef and use two forks to shred. Discard any excess fat.
+   5
+   Skim fat off of the top of the liquid remaining.
+   6
+   Mix shredded beef into sauce. Keep warm until you are ready to serve.
+   7
+   Build wrap by spreading garlic sauce on the pita. Top with beef and add garnishes to your liking.
+   8
+   Fold it burrito style.
+   9
+   Heat a grill pan and grill the wrap.
+--------------------------------------------------------------------------------
+
+[40/51] Smoky chicken skewers
+   ID: 53264
+   Categoría: Chicken
+   Origen: Turkish
+   Ingredientes: chicken thighs, olive oil, fennel seeds, ground cumin, sweet smoked paprika, garlic, red wine vinegar, smoky aïoli
+   Instrucciones: step 1
+You need 15 skewers: if wooden, soak in water for 10 mins. Cut chicken into 3cm pieces and place in a bowl. Add 1 tbsp olive oil, the spices, garlic and vinegar, toss well and season. You can do this up to a day before and refrigerate.
+
+step 2
+Thread 2-3 pieces on each skewer. Pour remaining oil in a frying pan or rub onto a griddle pan. Get the pan hot and sear the chicken for 3-4 mins on each side – you may have to do this in batches, keeping the cooked skewers warm in a low oven. Serve with smoky aïoli if you like.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Smoky chicken skewers
+   CATEGORÍA: Chicken
+   ORIGEN: Turkish
+   INGREDIENTES: chicken thighs, olive oil, fennel seeds, ground cumin, sweet smoked paprika, garlic, red wine vinegar, smoky aïoli
+   INSTRUCCIONES: step 1
+   You need 15 skewers: if wooden, soak in water for 10 mins. Cut chicken into 3cm pieces and place in a bowl. Add 1 tbsp olive oil, the spices, garlic and vinegar, toss well and season. You can do this up to a day before and refrigerate.
+   
+   step 2
+   Thread 2-3 pieces on each skewer. Pour remaining oil in a frying pan or rub onto a griddle pan. Get the pan hot and sear the chicken for 3-4 mins on each side – you may have to do this in batches, keeping the cooked skewers warm in a low oven. Serve with smoky aïoli if you like.
+--------------------------------------------------------------------------------
+
+[41/51] Spaghetti Bolognese
+   ID: 52770
+   Categoría: Beef
+   Origen: Italian
+   Ingredientes: onions, olive oil, garlic, lean minced beef, mushrooms, dried oregano, tomatoes, hot beef stock, tomato puree, worcestershire sauce, spaghetti, parmesan
+   Instrucciones: Put the onion and oil in a large pan and fry over a fairly high heat for 3-4 mins. Add the garlic and mince and fry until they both brown. Add the mushrooms and herbs, and cook for another couple of mins.
+
+Stir in the tomatoes, beef stock, tomato ketchup or purée, Worcestershire sauce and seasoning. Bring to the boil, then reduce the heat, cover and simmer, stirring occasionally, for 30 mins.
+
+Meanwhile, cook the spaghetti in a large pan of boiling, salted water, according to packet instructions. Drain well, run hot water through it, put it back in the pan and add a dash of olive oil, if you like, then stir in the meat sauce. Serve in hot bowls and hand round Parmesan cheese, for sprinkling on top.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Spaghetti Bolognese
+   CATEGORÍA: Beef
+   ORIGEN: Italian
+   INGREDIENTES: onions, olive oil, garlic, lean minced beef, mushrooms, dried oregano, tomatoes, hot beef stock, tomato puree, worcestershire sauce, spaghetti, parmesan
+   INSTRUCCIONES: Put the onion and oil in a large pan and fry over a fairly high heat for 3-4 mins. Add the garlic and mince and fry until they both brown. Add the mushrooms and herbs, and cook for another couple of mins.
+   
+   Stir in the tomatoes, beef stock, tomato ketchup or purée, Worcestershire sauce and seasoning. Bring to the boil, then reduce the heat, cover and simmer, stirring occasionally, for 30 mins.
+   
+   Meanwhile, cook the spaghetti in a large pan of boiling, salted water, according to packet instructions. Drain well, run hot water through it, put it back in the pan and add a dash of olive oil, if you like, then stir in the meat sauce. Serve in hot bowls and hand round Parmesan cheese, for sprinkling on top.
+--------------------------------------------------------------------------------
+
+[42/51] Spaghetti alla Carbonara
+   ID: 52982
+   Categoría: Pasta
+   Origen: Italian
+   Ingredientes: spaghetti, egg yolks, salt, bacon, pecorino, black pepper
+   Instrucciones: STEP 1
+Put a large saucepan of water on to boil.
+
+STEP 2
+Finely chop the 100g pancetta, having first removed any rind. Finely grate 50g pecorino cheese and 50g parmesan and mix them together.
+
+STEP 3
+Beat the 3 large eggs in a medium bowl and season with a little freshly grated black pepper. Set everything aside.
+
+STEP 4
+Add 1 tsp salt to the boiling water, add 350g spaghetti and when the water comes back to the boil, cook at a constant simmer, covered, for 10 minutes or until al dente (just cooked).
+
+STEP 5
+Squash 2 peeled plump garlic cloves with the blade of a knife, just to bruise it.
+
+STEP 6
+While the spaghetti is cooking, fry the pancetta with the garlic. Drop 50g unsalted butter into a large frying pan or wok and, as soon as the butter has melted, tip in the pancetta and garlic.
+
+STEP 7
+Leave to cook on a medium heat for about 5 minutes, stirring often, until the pancetta is golden and crisp. The garlic has now imparted its flavour, so take it out with a slotted spoon and discard.
+
+STEP 8
+Keep the heat under the pancetta on low. When the pasta is ready, lift it from the water with a pasta fork or tongs and put it in the frying pan with the pancetta. Don’t worry if a little water drops in the pan as well (you want this to happen) and don’t throw the pasta water away yet.
+
+STEP 9
+Mix most of the cheese in with the eggs, keeping a small handful back for sprinkling over later.
+
+STEP 10
+Take the pan of spaghetti and pancetta off the heat. Now quickly pour in the eggs and cheese. Using the tongs or a long fork, lift up the spaghetti so it mixes easily with the egg mixture, which thickens but doesn’t scramble, and everything is coated.
+
+STEP 11
+Add extra pasta cooking water to keep it saucy (several tablespoons should do it). You don’t want it wet, just moist. Season with a little salt, if needed.
+
+STEP 12
+Use a long-pronged fork to twist the pasta on to the serving plate or bowl. Serve immediately with a little sprinkling of the remaining cheese and a grating of black pepper. If the dish does get a little dry before serving, splash in some more hot pasta water and the glossy sauciness will be revived.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Spaghetti alla Carbonara
+   CATEGORÍA: Pasta
+   ORIGEN: Italian
+   INGREDIENTES: spaghetti, egg yolks, salt, bacon, pecorino, black pepper
+   INSTRUCCIONES: STEP 1
+   Put a large saucepan of water on to boil.
+   
+   STEP 2
+   Finely chop the 100g pancetta, having first removed any rind. Finely grate 50g pecorino cheese and 50g parmesan and mix them together.
+   
+   STEP 3
+   Beat the 3 large eggs in a medium bowl and season with a little freshly grated black pepper. Set everything aside.
+   
+   STEP 4
+   Add 1 tsp salt to the boiling water, add 350g spaghetti and when the water comes back to the boil, cook at a constant simmer, covered, for 10 minutes or until al dente (just cooked).
+   
+   STEP 5
+   Squash 2 peeled plump garlic cloves with the blade of a knife, just to bruise it.
+   
+   STEP 6
+   While the spaghetti is cooking, fry the pancetta with the garlic. Drop 50g unsalted butter into a large frying pan or wok and, as soon as the butter has melted, tip in the pancetta and garlic.
+   
+   STEP 7
+   Leave to cook on a medium heat for about 5 minutes, stirring often, until the pancetta is golden and crisp. The garlic has now imparted its flavour, so take it out with a slotted spoon and discard.
+   
+   STEP 8
+   Keep the heat under the pancetta on low. When the pasta is ready, lift it from the water with a pasta fork or tongs and put it in the frying pan with the pancetta. Don’t worry if a little water drops in the pan as well (you want this to happen) and don’t throw the pasta water away yet.
+   
+   STEP 9
+   Mix most of the cheese in with the eggs, keeping a small handful back for sprinkling over later.
+   
+   STEP 10
+   Take the pan of spaghetti and pancetta off the heat. Now quickly pour in the eggs and cheese. Using the tongs or a long fork, lift up the spaghetti so it mixes easily with the egg mixture, which thickens but doesn’t scramble, and everything is coated.
+   
+   STEP 11
+   Add extra pasta cooking water to keep it saucy (several tablespoons should do it). You don’t want it wet, just moist. Season with a little salt, if needed.
+   
+   STEP 12
+   Use a long-pronged fork to twist the pasta on to the serving plate or bowl. Serve immediately with a little sprinkling of the remaining cheese and a grating of black pepper. If the dish does get a little dry before serving, splash in some more hot pasta water and the glossy sauciness will be revived.
+--------------------------------------------------------------------------------
+
+[43/51] Spaghetti with Spanish flavours
+   ID: 53177
+   Categoría: Pork
+   Origen: Spanish
+   Ingredientes: chorizo, spaghetti, parsley, red pepper, olive oil, parmesan cheese
+   Instrucciones: step 1
+Put a pan of water on over a high heat to boil. Meanwhile, snip the chorizo into strips with scissors, and chop the parsley and peppers (check for stray seeds first).
+
+step 2
+When the water is boiling briskly, add the spaghetti with a good measure of salt, stir and return to the boil. Cook for 3 minutes.
+
+step 3
+In a large frying pan, heat the oil, add the chorizo and peppers and plenty of black pepper. Cook for a minute or so, until heated through and the juices are stained red from the paprika in the chorizo. Scoop half a mugful of pasta water from the pan, drain the remainder and tip the spaghetti into the frying pan.
+
+step 4
+Add the parsley and parmesan, toss well and splash in the pasta water, to moisten. Hand round extra parmesan at the table.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Spaghetti with Spanish flavours
+   CATEGORÍA: Pork
+   ORIGEN: Spanish
+   INGREDIENTES: chorizo, spaghetti, parsley, red pepper, olive oil, parmesan cheese
+   INSTRUCCIONES: step 1
+   Put a pan of water on over a high heat to boil. Meanwhile, snip the chorizo into strips with scissors, and chop the parsley and peppers (check for stray seeds first).
+   
+   step 2
+   When the water is boiling briskly, add the spaghetti with a good measure of salt, stir and return to the boil. Cook for 3 minutes.
+   
+   step 3
+   In a large frying pan, heat the oil, add the chorizo and peppers and plenty of black pepper. Cook for a minute or so, until heated through and the juices are stained red from the paprika in the chorizo. Scoop half a mugful of pasta water from the pan, drain the remainder and tip the spaghetti into the frying pan.
+   
+   step 4
+   Add the parsley and parmesan, toss well and splash in the pasta water, to moisten. Hand round extra parmesan at the table.
+--------------------------------------------------------------------------------
+
+[44/51] Spanish Chicken
+   ID: 53164
+   Categoría: Chicken
+   Origen: Spanish
+   Ingredientes: chicken thighs, onion, paprika, lemon, parsley, chicken stock, olive oil
+   Instrucciones: step 1
+Heat oven to 190C/170C fan/gas 5. Put all the ingredients into a large, wide ovenproof dish. Mix everything together with your hands and season.
+
+step 2
+Bake for 45 mins, stirring the onions after 20 mins, until the chicken is golden and the onions tender. Serve with rice.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Spanish Chicken
+   CATEGORÍA: Chicken
+   ORIGEN: Spanish
+   INGREDIENTES: chicken thighs, onion, paprika, lemon, parsley, chicken stock, olive oil
+   INSTRUCCIONES: step 1
+   Heat oven to 190C/170C fan/gas 5. Put all the ingredients into a large, wide ovenproof dish. Mix everything together with your hands and season.
+   
+   step 2
+   Bake for 45 mins, stirring the onions after 20 mins, until the chicken is golden and the onions tender. Serve with rice.
+--------------------------------------------------------------------------------
+
+[45/51] Spanish chicken pie
+   ID: 53155
+   Categoría: Chicken
+   Origen: Spanish
+   Ingredientes: potatoes, paprika, olive oil, onion, garlic, tinned tomatos, chicken, roasted pepper, green olives
+   Instrucciones: step 1
+Heat oven to 200C/fan 180C/gas 6. Boil the potatoes for 15-20 mins until tender. Drain, return to the pan, then mash with some seasoning and 2 tsp of the paprika.
+
+step 2
+Meanwhile, heat the oil in a large pan, then fry the onions and garlic for a few mins until softened. Stir in the remaining paprika for 1 min, add the tomatoes , then, bring to a simmer. Tip into a large ovenproof dish, then stir in the chicken, peppers, olives and some seasoning.
+
+step 3
+Spoon over the mash, then bake for 15 mins until the mash is golden on top and the sauce is bubbling.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Spanish chicken pie
+   CATEGORÍA: Chicken
+   ORIGEN: Spanish
+   INGREDIENTES: potatoes, paprika, olive oil, onion, garlic, tinned tomatos, chicken, roasted pepper, green olives
+   INSTRUCCIONES: step 1
+   Heat oven to 200C/fan 180C/gas 6. Boil the potatoes for 15-20 mins until tender. Drain, return to the pan, then mash with some seasoning and 2 tsp of the paprika.
+   
+   step 2
+   Meanwhile, heat the oil in a large pan, then fry the onions and garlic for a few mins until softened. Stir in the remaining paprika for 1 min, add the tomatoes , then, bring to a simmer. Tip into a large ovenproof dish, then stir in the chicken, peppers, olives and some seasoning.
+   
+   step 3
+   Spoon over the mash, then bake for 15 mins until the mash is golden on top and the sauce is bubbling.
+--------------------------------------------------------------------------------
+
+[46/51] Spicy Arrabiata Penne
+   ID: 52771
+   Categoría: Vegetarian
+   Origen: Italian
+   Ingredientes: penne rigate, olive oil, garlic, chopped tomatoes, red chilli flakes, italian seasoning, basil, parmigiano-reggiano
+   Instrucciones: Bring a large pot of water to a boil. Add kosher salt to the boiling water, then add the pasta. Cook according to the package instructions, about 9 minutes.
+In a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer. Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes. Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste. Bring to a boil and cook for 5 minutes. Remove from the heat and add the chopped basil.
+Drain the pasta and add it to the sauce. Garnish with Parmigiano-Reggiano flakes and more basil and serve warm.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Spicy Arrabiata Penne
+   CATEGORÍA: Vegetarian
+   ORIGEN: Italian
+   INGREDIENTES: penne rigate, olive oil, garlic, chopped tomatoes, red chilli flakes, italian seasoning, basil, parmigiano-reggiano
+   INSTRUCCIONES: Bring a large pot of water to a boil. Add kosher salt to the boiling water, then add the pasta. Cook according to the package instructions, about 9 minutes.
+   In a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer. Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes. Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste. Bring to a boil and cook for 5 minutes. Remove from the heat and add the chopped basil.
+   Drain the pasta and add it to the sauce. Garnish with Parmigiano-Reggiano flakes and more basil and serve warm.
+--------------------------------------------------------------------------------
+
+[47/51] Sticky Chicken
+   ID: 53110
+   Categoría: Chicken
+   Origen: Australian
+   Ingredientes: chicken drumsticks, soy sauce, honey, olive oil, tomato puree, dijon mustard
+   Instrucciones: step 1
+Make 3 slashes on each of the drumsticks. Mix together the soy, honey, oil, tomato purée and mustard. Pour this mixture over the chicken and coat thoroughly. Leave to marinate for 30 mins at room temperature or overnight in the fridge. Heat oven to 200C/fan 180C/gas 6.
+
+step 2
+Tip the chicken into a shallow roasting tray and cook for 35 mins, turning occasionally, until the chicken is tender and glistening with the marinade.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Sticky Chicken
+   CATEGORÍA: Chicken
+   ORIGEN: Australian
+   INGREDIENTES: chicken drumsticks, soy sauce, honey, olive oil, tomato puree, dijon mustard
+   INSTRUCCIONES: step 1
+   Make 3 slashes on each of the drumsticks. Mix together the soy, honey, oil, tomato purée and mustard. Pour this mixture over the chicken and coat thoroughly. Leave to marinate for 30 mins at room temperature or overnight in the fridge. Heat oven to 200C/fan 180C/gas 6.
+   
+   step 2
+   Tip the chicken into a shallow roasting tray and cook for 35 mins, turning occasionally, until the chicken is tender and glistening with the marinade.
+--------------------------------------------------------------------------------
+
+[48/51] Sweet and Sour Chicken
+   ID: 53376
+   Categoría: Chicken
+   Origen: Chinese
+   Ingredientes: chicken thighs, egg white, kosher salt, cornstarch, pineapple chunks, pineapple juice, white vinegar, tomato ketchup, brown sugar, oil, red pepper, yellow pepper, ginger
+   Instrucciones: Coat the chicken with egg white:
+In a bowl, combine the chicken with the egg white, 1/2 teaspoon kosher salt, and cornstarch. Stir to coat the chicken evenly. Let sit for 15 minutes at room temperature or up to overnight in the refrigerator.
+
+Make the sweet and sour sauce:
+Whisk together the pineapple juice, vinegar, ketchup, 1/2 teaspoon kosher salt, and brown sugar.
+
+Stir-fry the chicken over high heat:
+Heat a large frying pan or wok over high heat until a bead of water instantly sizzles and evaporates. Pour in 1 tablespoon of cooking oil and swirl to coat. It's important that the pan is very hot.
+
+Add the chicken and spread the pieces out in one layer. Let the chicken fry untouched for 1 minute, until the bottoms are browned.
+
+Flip and fry the other side for 1 minute. The chicken should still be pinkish in the middle. Dish out the chicken onto a clean plate, leaving as much oil in the pan as possible.
+
+Stir-fry the bell pepper and ginger:
+Reduce the heat to medium and add the remaining 1 teaspoon of cooking oil. Let the oil heat up before adding the bell pepper chunks and ginger. Fry for 1 minute.
+
+Add the pineapple, sauce, and then, the chicken:
+Add the pineapple chunks and the sweet and sour sauce. Turn up the heat to high. When the sauce is simmering, add the chicken pieces back in.
+
+Let simmer for 1 to 2 minutes, until the chicken is cooked through. Timing depends on how thick you've cut your chicken. The best way to tell if the chicken is done is to take a piece out and cut into it. If it's pink, add another minute to the cooking.
+
+Adjust the seasoning and serve:
+Taste the sauce and add more brown sugar or vinegar to suit your tastes, if you’d like.
+
+Serve hot with steamed white or brown rice.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Sweet and Sour Chicken
+   CATEGORÍA: Chicken
+   ORIGEN: Chinese
+   INGREDIENTES: chicken thighs, egg white, kosher salt, cornstarch, pineapple chunks, pineapple juice, white vinegar, tomato ketchup, brown sugar, oil, red pepper, yellow pepper, ginger
+   INSTRUCCIONES: Coat the chicken with egg white:
+   In a bowl, combine the chicken with the egg white, 1/2 teaspoon kosher salt, and cornstarch. Stir to coat the chicken evenly. Let sit for 15 minutes at room temperature or up to overnight in the refrigerator.
+   
+   Make the sweet and sour sauce:
+   Whisk together the pineapple juice, vinegar, ketchup, 1/2 teaspoon kosher salt, and brown sugar.
+   
+   Stir-fry the chicken over high heat:
+   Heat a large frying pan or wok over high heat until a bead of water instantly sizzles and evaporates. Pour in 1 tablespoon of cooking oil and swirl to coat. It's important that the pan is very hot.
+   
+   Add the chicken and spread the pieces out in one layer. Let the chicken fry untouched for 1 minute, until the bottoms are browned.
+   
+   Flip and fry the other side for 1 minute. The chicken should still be pinkish in the middle. Dish out the chicken onto a clean plate, leaving as much oil in the pan as possible.
+   
+   Stir-fry the bell pepper and ginger:
+   Reduce the heat to medium and add the remaining 1 teaspoon of cooking oil. Let the oil heat up before adding the bell pepper chunks and ginger. Fry for 1 minute.
+   
+   Add the pineapple, sauce, and then, the chicken:
+   Add the pineapple chunks and the sweet and sour sauce. Turn up the heat to high. When the sauce is simmering, add the chicken pieces back in.
+   
+   Let simmer for 1 to 2 minutes, until the chicken is cooked through. Timing depends on how thick you've cut your chicken. The best way to tell if the chicken is done is to take a piece out and cut into it. If it's pink, add another minute to the cooking.
+   
+   Adjust the seasoning and serve:
+   Taste the sauce and add more brown sugar or vinegar to suit your tastes, if you’d like.
+   
+   Serve hot with steamed white or brown rice.
+--------------------------------------------------------------------------------
+
+[49/51] Syrian Spaghetti
+   ID: 53093
+   Categoría: Pasta
+   Origen: Syrian
+   Ingredientes: spaghetti, tomato sauce, tomato puree, cinnamon, vegetable oil, salt, pepper
+   Instrucciones: Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish.
+
+Bring a large pot of lightly salted water to a boil. Add spaghetti and cook for 8 to 10 minutes or until al dente; drain and stir in tomato sauce, tomato paste, cinnamon, oil, salt and pepper. Transfer to prepared dish.
+
+Bake in preheated oven for 1 hour, or until top is crunchy.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Syrian Spaghetti
+   CATEGORÍA: Pasta
+   ORIGEN: Syrian
+   INGREDIENTES: spaghetti, tomato sauce, tomato puree, cinnamon, vegetable oil, salt, pepper
+   INSTRUCCIONES: Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish.
+   
+   Bring a large pot of lightly salted water to a boil. Add spaghetti and cook for 8 to 10 minutes or until al dente; drain and stir in tomato sauce, tomato paste, cinnamon, oil, salt and pepper. Transfer to prepared dish.
+   
+   Bake in preheated oven for 1 hour, or until top is crunchy.
+--------------------------------------------------------------------------------
+
+[50/51] Tandoori chicken
+   ID: 52806
+   Categoría: Chicken
+   Origen: India
+   Ingredientes: lemons, paprika, red onions, chicken thighs, vegetable oil, greek yogurt, ginger, garlic clove, garam masala, ground cumin, chilli powder, turmeric
+   Instrucciones: Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins.
+Mix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.
+Heat the grill. Lift the chicken pieces onto a rack over a baking tray. Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Tandoori chicken
+   CATEGORÍA: Chicken
+   ORIGEN: India
+   INGREDIENTES: lemons, paprika, red onions, chicken thighs, vegetable oil, greek yogurt, ginger, garlic clove, garam masala, ground cumin, chilli powder, turmeric
+   INSTRUCCIONES: Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins.
+   Mix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.
+   Heat the grill. Lift the chicken pieces onto a rack over a baking tray. Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through.
+--------------------------------------------------------------------------------
+
+[51/51] Thai green chicken soup
+   ID: 53214
+   Categoría: Chicken
+   Origen: Thai
+   Ingredientes: sunflower oil, onion, chicken thighs, garlic clove, thai green curry paste, coconut milk, chicken stock, lime leaves, fish sauce, spring onions, green beans, bamboo shoot, lime, basil
+   Instrucciones: step 1
+Heat the oil in your largest pan, add the onion and fry for 3 mins to soften. Add the chicken and garlic, and cook until the chicken changes colour.
+
+step 2
+Add the curry paste, coconut milk, stock, lime leaves and fish sauce, then simmer for 12 mins. Add the chopped onion tops, green beans and bamboo shoots and cook for 4-6 mins, until the beans are just tender.
+
+step 3
+Meanwhile, put the lime juice and basil in a narrow jug and blitz with a hand blender to make a smooth green paste. Pour into the soup with the sliced spring onion and heat through. Serve with lime wedges for a light lunch or supper or as a make-ahead starter.
+   --- REPRESENTACIÓN EN TEXTO PARA EL LLM ---
+   RECETA: Thai green chicken soup
+   CATEGORÍA: Chicken
+   ORIGEN: Thai
+   INGREDIENTES: sunflower oil, onion, chicken thighs, garlic clove, thai green curry paste, coconut milk, chicken stock, lime leaves, fish sauce, spring onions, green beans, bamboo shoot, lime, basil
+   INSTRUCCIONES: step 1
+   Heat the oil in your largest pan, add the onion and fry for 3 mins to soften. Add the chicken and garlic, and cook until the chicken changes colour.
+   
+   step 2
+   Add the curry paste, coconut milk, stock, lime leaves and fish sauce, then simmer for 12 mins. Add the chopped onion tops, green beans and bamboo shoots and cook for 4-6 mins, until the beans are just tender.
+   
+   step 3
+   Meanwhile, put the lime juice and basil in a narrow jug and blitz with a hand blender to make a smooth green paste. Pour into the soup with the sliced spring onion and heat through. Serve with lime wedges for a light lunch or supper or as a make-ahead starter.
+--------------------------------------------------------------------------------
+
