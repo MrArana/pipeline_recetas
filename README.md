@@ -9,21 +9,19 @@
 El proyecto sigue principios de diseño modular y separación de responsabilidades (ETL):
 
 mi_proyecto_recetas/
-│
-├── src/
-│   ├── __init__.py
-│   ├── reader.py            # [E] Extracción: Lector del archivo de entrada
-│   ├── api_client.py        # [E] Extracción: Cliente HTTP de TheMealDB
-│   ├── transformer.py       # [T] Transformación: Adaptación semántica para IA
-│   └── database_manager.py  # [L] Carga: Gestión y persistencia en PostgreSQL
-│
-├── docker-compose.yml       # Orquestación local de la base de datos
-├── main.py                  # Orquestador central del flujo integrado
-├── recipes.txt              # Entrada de datos (Nombres a buscar)
-├── recetas_export.txt       #El archivo para comprobar que todo se ha guardado bien.
-├── .env.example             # Plantilla pública de configuración del entorno
-└── .env                     # Variables de entorno locales (Ignorado en Git)
-
+- src/
+  - __init__.py
+  - reader.py # [E] Extracción: Lector del archivo de entrada
+  - api_client.py # [E] Extracción: Cliente HTTP de TheMealDB
+  - transformer.py # [T] Transformación: Adaptación semántica para IA
+  - database_manager.py # [L] Carga: Gestión y persistencia en PostgreSQL
+- docker-compose.yml # Orquestación local de la base de datos
+- main.py # Orquestador central del flujo integrado
+- recipes.txt # Entrada de datos (Nombres a buscar)
+- recetas_export.txt # El archivo para comprobar que todo se ha guardado bien.
+- .env.example # Plantilla pública de configuración del entorno
+- .env # Variables de entorno locales (Ignorado en Git)
+- 
 ## 3. Diccionario de Datos del Proyecto
 
 * id (SERIAL, PK): Identificador único interno para control de la base de datos.
